@@ -1,0 +1,1261 @@
+Category,week_start,weekly_revenue,weekly_units,rolling_4wk_avg_revenue,revenue_vs_prior_4wk,is_partial_week
+Apparel & Accessories,2024-01-01,28374.91,1096,28374.91,,False
+Apparel & Accessories,2024-01-08,26081.59,1027,27228.25,0.92,False
+Apparel & Accessories,2024-01-15,25687.5,961,26714.67,0.94,False
+Apparel & Accessories,2024-01-22,28621.97,1043,27191.49,1.07,False
+Apparel & Accessories,2024-01-29,28560.96,1149,27238.0,1.05,False
+Apparel & Accessories,2024-02-05,25628.43,986,27124.71,0.94,False
+Apparel & Accessories,2024-02-12,29463.37,1101,28068.68,1.09,False
+Apparel & Accessories,2024-02-19,23682.43,956,26833.8,0.84,False
+Apparel & Accessories,2024-02-26,28056.27,1036,26707.63,1.05,False
+Apparel & Accessories,2024-03-04,35941.74,1302,29285.95,1.35,False
+Apparel & Accessories,2024-03-11,34397.31,1287,30519.44,1.17,False
+Apparel & Accessories,2024-03-18,38877.76,1551,34318.27,1.27,False
+Apparel & Accessories,2024-03-25,35275.56,1421,36123.09,1.03,False
+Apparel & Accessories,2024-04-01,28735.59,1149,34321.56,0.8,False
+Apparel & Accessories,2024-04-08,34733.97,1263,34405.72,1.01,False
+Apparel & Accessories,2024-04-15,28619.18,1114,31841.07,0.83,False
+Apparel & Accessories,2024-04-22,32119.17,1210,31051.98,1.01,False
+Apparel & Accessories,2024-04-29,30503.92,1078,31494.06,0.98,False
+Apparel & Accessories,2024-05-06,36696.22,1371,31984.62,1.17,False
+Apparel & Accessories,2024-05-13,31114.9,1239,32608.55,0.97,False
+Apparel & Accessories,2024-05-20,29000.78,1133,31828.96,0.89,False
+Apparel & Accessories,2024-05-27,29332.27,1141,31536.04,0.92,False
+Apparel & Accessories,2024-06-03,29024.48,1171,29618.11,0.92,False
+Apparel & Accessories,2024-06-10,29885.52,1124,29310.76,1.01,False
+Apparel & Accessories,2024-06-17,32973.81,1195,30304.02,1.12,False
+Apparel & Accessories,2024-06-24,27619.43,1091,29875.81,0.91,False
+Apparel & Accessories,2024-07-01,28853.37,1131,29833.03,0.97,False
+Apparel & Accessories,2024-07-08,30635.27,1193,30020.47,1.03,False
+Apparel & Accessories,2024-07-15,29602.47,1129,29177.64,0.99,False
+Apparel & Accessories,2024-07-22,29652.8,1217,29685.98,1.02,False
+Apparel & Accessories,2024-07-29,39139.09,1466,32257.41,1.32,False
+Apparel & Accessories,2024-08-05,38989.2,1552,34345.89,1.21,False
+Apparel & Accessories,2024-08-12,38514.72,1479,36573.95,1.12,False
+Apparel & Accessories,2024-08-19,41608.17,1615,39562.8,1.14,False
+Apparel & Accessories,2024-08-26,41026.37,1533,40034.62,1.04,False
+Apparel & Accessories,2024-09-02,37453.16,1471,39650.61,0.94,False
+Apparel & Accessories,2024-09-09,37258.68,1427,39336.6,0.94,False
+Apparel & Accessories,2024-09-16,37750.41,1404,38372.16,0.96,False
+Apparel & Accessories,2024-09-23,32099.25,1294,36140.38,0.84,False
+Apparel & Accessories,2024-09-30,32583.89,1214,34923.06,0.9,False
+Apparel & Accessories,2024-10-07,31841.36,1254,33568.73,0.91,False
+Apparel & Accessories,2024-10-14,33559.7,1326,32521.05,1.0,False
+Apparel & Accessories,2024-10-21,34259.42,1314,33061.09,1.05,False
+Apparel & Accessories,2024-10-28,34223.72,1330,33471.05,1.04,False
+Apparel & Accessories,2024-11-04,38585.48,1500,35157.08,1.15,False
+Apparel & Accessories,2024-11-11,38119.55,1529,36297.04,1.08,False
+Apparel & Accessories,2024-11-18,36265.34,1484,36798.52,1.0,False
+Apparel & Accessories,2024-11-25,43721.65,1742,39173.01,1.19,False
+Apparel & Accessories,2024-12-02,40389.38,1711,39623.98,1.03,False
+Apparel & Accessories,2024-12-09,41149.23,1645,40381.4,1.04,False
+Apparel & Accessories,2024-12-16,41042.92,1757,41575.8,1.02,False
+Apparel & Accessories,2024-12-23,44164.93,1710,41686.62,1.06,False
+Apparel & Accessories,2024-12-30,34755.47,1303,40278.14,0.83,False
+Apparel & Accessories,2025-01-06,31859.09,1184,37955.6,0.79,False
+Apparel & Accessories,2025-01-13,30347.05,1146,35281.63,0.8,False
+Apparel & Accessories,2025-01-20,28237.82,1071,31299.86,0.8,False
+Apparel & Accessories,2025-01-27,27109.2,1066,29388.29,0.87,False
+Apparel & Accessories,2025-02-03,29437.03,1211,28782.77,1.0,False
+Apparel & Accessories,2025-02-10,26472.63,1023,27814.17,0.92,False
+Apparel & Accessories,2025-02-17,31212.0,1189,28557.72,1.12,False
+Apparel & Accessories,2025-02-24,30962.35,1192,29521.0,1.08,False
+Apparel & Accessories,2025-03-03,39540.91,1505,32046.97,1.34,False
+Apparel & Accessories,2025-03-10,38460.29,1457,35043.89,1.2,False
+Apparel & Accessories,2025-03-17,36755.93,1441,36429.87,1.05,False
+Apparel & Accessories,2025-03-24,34693.41,1354,37362.64,0.95,False
+Apparel & Accessories,2025-03-31,32458.13,1230,35591.94,0.87,False
+Apparel & Accessories,2025-04-07,33028.93,1245,34234.1,0.93,False
+Apparel & Accessories,2025-04-14,29429.03,1126,32402.38,0.86,False
+Apparel & Accessories,2025-04-21,26146.41,1061,30265.63,0.81,False
+Apparel & Accessories,2025-04-28,30360.34,1224,29741.18,1.0,False
+Apparel & Accessories,2025-05-05,31733.48,1202,29417.32,1.07,False
+Apparel & Accessories,2025-05-12,30265.05,1133,29626.32,1.03,False
+Apparel & Accessories,2025-05-19,35164.74,1326,31880.9,1.19,False
+Apparel & Accessories,2025-05-26,29442.24,1227,31651.38,0.92,False
+Apparel & Accessories,2025-06-02,32361.68,1226,31808.43,1.02,False
+Apparel & Accessories,2025-06-09,29145.45,1153,31528.53,0.92,False
+Apparel & Accessories,2025-06-16,30585.32,1219,30383.67,0.97,False
+Apparel & Accessories,2025-06-23,33183.18,1213,31318.91,1.09,False
+Apparel & Accessories,2025-06-30,30246.64,1330,30790.15,0.97,False
+Apparel & Accessories,2025-07-07,28999.05,1161,30753.55,0.94,False
+Apparel & Accessories,2025-07-14,30903.18,1211,30833.01,1.0,False
+Apparel & Accessories,2025-07-21,29397.83,1182,29886.68,0.95,False
+Apparel & Accessories,2025-07-28,33710.88,1340,30752.74,1.13,False
+Apparel & Accessories,2025-08-04,40240.4,1448,33563.07,1.31,False
+Apparel & Accessories,2025-08-11,37851.8,1443,35300.23,1.13,False
+Apparel & Accessories,2025-08-18,37581.31,1432,37346.1,1.06,False
+Apparel & Accessories,2025-08-25,40494.07,1628,39041.9,1.08,False
+Apparel & Accessories,2025-09-01,37813.77,1491,38435.24,0.97,False
+Apparel & Accessories,2025-09-08,39314.12,1612,38800.82,1.02,False
+Apparel & Accessories,2025-09-15,39861.76,1527,39370.93,1.03,False
+Apparel & Accessories,2025-09-22,38185.75,1464,38793.85,0.97,False
+Apparel & Accessories,2025-09-29,35091.76,1288,38113.35,0.9,False
+Apparel & Accessories,2025-10-06,32443.99,1251,36395.82,0.85,False
+Apparel & Accessories,2025-10-13,34725.51,1396,35111.75,0.95,False
+Apparel & Accessories,2025-10-20,35048.35,1325,34327.4,1.0,False
+Apparel & Accessories,2025-10-27,37635.33,1464,34963.3,1.1,False
+Apparel & Accessories,2025-11-03,40470.22,1704,36969.85,1.16,False
+Apparel & Accessories,2025-11-10,40657.84,1665,38452.94,1.1,False
+Apparel & Accessories,2025-11-17,40991.15,1722,39938.64,1.07,False
+Apparel & Accessories,2025-11-24,47189.34,1844,42327.14,1.18,False
+Apparel & Accessories,2025-12-01,48353.51,1873,44297.96,1.14,False
+Apparel & Accessories,2025-12-08,44438.26,1850,45243.07,1.0,False
+Apparel & Accessories,2025-12-15,43025.08,1714,45751.55,0.95,False
+Apparel & Accessories,2025-12-22,44694.04,1833,45127.72,0.98,False
+Apparel & Accessories,2025-12-29,18779.81,722,37734.3,0.42,True
+Electronics Accessories,2024-01-01,33731.91,916,33731.91,,False
+Electronics Accessories,2024-01-08,33516.03,834,33623.97,0.99,False
+Electronics Accessories,2024-01-15,28204.86,779,31817.6,0.84,False
+Electronics Accessories,2024-01-22,32935.45,949,32097.06,1.04,False
+Electronics Accessories,2024-01-29,33719.88,1024,32094.06,1.05,False
+Electronics Accessories,2024-02-05,32924.99,788,31946.3,1.03,False
+Electronics Accessories,2024-02-12,29677.6,874,32314.48,0.93,False
+Electronics Accessories,2024-02-19,36544.12,931,33216.65,1.13,False
+Electronics Accessories,2024-02-26,33782.46,877,33232.29,1.02,False
+Electronics Accessories,2024-03-04,36189.59,965,34048.44,1.09,False
+Electronics Accessories,2024-03-11,30027.92,840,34136.02,0.88,False
+Electronics Accessories,2024-03-18,34778.98,965,33694.74,1.02,False
+Electronics Accessories,2024-03-25,37333.39,1041,34582.47,1.11,False
+Electronics Accessories,2024-04-01,35357.16,1032,34374.36,1.02,False
+Electronics Accessories,2024-04-08,39174.75,1020,36661.07,1.14,False
+Electronics Accessories,2024-04-15,31953.99,885,35954.82,0.87,False
+Electronics Accessories,2024-04-22,31671.27,868,34539.29,0.88,False
+Electronics Accessories,2024-04-29,31752.66,940,33638.17,0.92,False
+Electronics Accessories,2024-05-06,33818.31,967,32299.06,1.01,False
+Electronics Accessories,2024-05-13,34837.89,967,33020.03,1.08,False
+Electronics Accessories,2024-05-20,39993.11,1038,35100.49,1.21,False
+Electronics Accessories,2024-05-27,35988.9,937,36159.55,1.03,False
+Electronics Accessories,2024-06-03,37979.76,1038,37199.92,1.05,False
+Electronics Accessories,2024-06-10,35302.8,997,37316.14,0.95,False
+Electronics Accessories,2024-06-17,33509.57,1006,35695.26,0.9,False
+Electronics Accessories,2024-06-24,35587.35,949,35594.87,1.0,False
+Electronics Accessories,2024-07-01,36725.63,1007,35281.34,1.03,False
+Electronics Accessories,2024-07-08,32681.11,880,34625.91,0.93,False
+Electronics Accessories,2024-07-15,35699.62,992,35173.43,1.03,False
+Electronics Accessories,2024-07-22,40014.98,1003,36280.34,1.14,False
+Electronics Accessories,2024-07-29,39190.27,1106,36896.5,1.08,False
+Electronics Accessories,2024-08-05,41569.3,1142,39118.54,1.13,False
+Electronics Accessories,2024-08-12,46293.9,1212,41767.11,1.18,False
+Electronics Accessories,2024-08-19,42392.17,1142,42361.41,1.01,False
+Electronics Accessories,2024-08-26,46383.59,1276,44159.74,1.09,False
+Electronics Accessories,2024-09-02,35763.15,914,42708.2,0.81,False
+Electronics Accessories,2024-09-09,36082.18,944,40155.27,0.84,False
+Electronics Accessories,2024-09-16,32210.97,902,37609.97,0.8,False
+Electronics Accessories,2024-09-23,35160.57,933,34804.22,0.93,False
+Electronics Accessories,2024-09-30,39041.83,1057,35623.89,1.12,False
+Electronics Accessories,2024-10-07,39289.18,1130,36425.64,1.1,False
+Electronics Accessories,2024-10-14,40045.31,1004,38384.22,1.1,False
+Electronics Accessories,2024-10-21,42142.82,1189,40129.79,1.1,False
+Electronics Accessories,2024-10-28,44188.3,1193,41416.4,1.1,False
+Electronics Accessories,2024-11-04,50244.11,1458,44155.14,1.21,False
+Electronics Accessories,2024-11-11,55402.49,1559,47994.43,1.25,False
+Electronics Accessories,2024-11-18,56710.71,1557,51636.4,1.18,False
+Electronics Accessories,2024-11-25,64445.12,1836,56700.61,1.25,False
+Electronics Accessories,2024-12-02,69706.92,1862,61566.31,1.23,False
+Electronics Accessories,2024-12-09,67259.65,1775,64530.6,1.09,False
+Electronics Accessories,2024-12-16,63882.92,1704,66323.65,0.99,False
+Electronics Accessories,2024-12-23,69499.32,1764,67587.2,1.05,False
+Electronics Accessories,2024-12-30,42434.47,1152,60769.09,0.63,False
+Electronics Accessories,2025-01-06,45011.36,1016,55207.02,0.74,False
+Electronics Accessories,2025-01-13,30747.38,885,46923.13,0.56,False
+Electronics Accessories,2025-01-20,28918.51,852,36777.93,0.62,False
+Electronics Accessories,2025-01-27,34346.08,907,34755.83,0.93,False
+Electronics Accessories,2025-02-03,34280.9,1022,32073.22,0.99,False
+Electronics Accessories,2025-02-10,29709.2,831,31813.67,0.93,False
+Electronics Accessories,2025-02-17,35124.71,990,33365.22,1.1,False
+Electronics Accessories,2025-02-24,38255.12,1129,34342.48,1.15,False
+Electronics Accessories,2025-03-03,39181.42,1007,35567.61,1.14,False
+Electronics Accessories,2025-03-10,32400.76,896,36240.5,0.91,False
+Electronics Accessories,2025-03-17,33530.96,911,35842.07,0.93,False
+Electronics Accessories,2025-03-24,38433.35,1078,35886.62,1.07,False
+Electronics Accessories,2025-03-31,35769.52,981,35033.65,1.0,False
+Electronics Accessories,2025-04-07,32380.05,925,35028.47,0.92,False
+Electronics Accessories,2025-04-14,36537.4,961,35780.08,1.04,False
+Electronics Accessories,2025-04-21,38839.92,933,35881.72,1.09,False
+Electronics Accessories,2025-04-28,36683.98,1027,36110.34,1.02,False
+Electronics Accessories,2025-05-05,38807.37,1037,37717.17,1.07,False
+Electronics Accessories,2025-05-12,35536.12,973,37466.85,0.94,False
+Electronics Accessories,2025-05-19,41152.85,1045,38045.08,1.1,False
+Electronics Accessories,2025-05-26,38583.77,1046,38520.03,1.01,False
+Electronics Accessories,2025-06-02,41012.43,1078,39071.29,1.06,False
+Electronics Accessories,2025-06-09,31558.48,873,38076.88,0.81,False
+Electronics Accessories,2025-06-16,40802.55,1019,37989.31,1.07,False
+Electronics Accessories,2025-06-23,35757.01,997,37282.62,0.94,False
+Electronics Accessories,2025-06-30,38519.27,1077,36659.33,1.03,False
+Electronics Accessories,2025-07-07,37514.05,963,38148.22,1.02,False
+Electronics Accessories,2025-07-14,32873.87,968,36166.05,0.86,False
+Electronics Accessories,2025-07-21,32794.36,881,35425.39,0.91,False
+Electronics Accessories,2025-07-28,35690.05,1078,34718.08,1.01,False
+Electronics Accessories,2025-08-04,42793.85,1134,36038.03,1.23,False
+Electronics Accessories,2025-08-11,41297.47,1190,38143.93,1.15,False
+Electronics Accessories,2025-08-18,41391.24,1192,40293.15,1.09,False
+Electronics Accessories,2025-08-25,47231.0,1241,43178.39,1.17,False
+Electronics Accessories,2025-09-01,32694.65,907,40653.59,0.76,False
+Electronics Accessories,2025-09-08,34828.87,954,39036.44,0.86,False
+Electronics Accessories,2025-09-15,40629.24,1016,38845.94,1.04,False
+Electronics Accessories,2025-09-22,34878.59,944,35757.84,0.9,False
+Electronics Accessories,2025-09-29,39808.82,1012,37536.38,1.11,False
+Electronics Accessories,2025-10-06,40834.76,1102,39037.85,1.09,False
+Electronics Accessories,2025-10-13,39124.77,1130,38661.74,1.0,False
+Electronics Accessories,2025-10-20,39970.23,1085,39934.65,1.03,False
+Electronics Accessories,2025-10-27,48682.3,1421,42153.02,1.22,False
+Electronics Accessories,2025-11-03,56644.48,1636,46105.45,1.34,False
+Electronics Accessories,2025-11-10,53185.26,1487,49620.57,1.15,False
+Electronics Accessories,2025-11-17,64532.52,1682,55761.14,1.3,False
+Electronics Accessories,2025-11-24,80441.79,2078,63701.01,1.44,False
+Electronics Accessories,2025-12-01,67834.22,1853,66498.45,1.06,False
+Electronics Accessories,2025-12-08,64058.01,1828,69216.64,0.96,False
+Electronics Accessories,2025-12-15,62397.74,1695,68682.94,0.9,False
+Electronics Accessories,2025-12-22,65942.85,1880,65058.21,0.96,False
+Electronics Accessories,2025-12-29,23310.48,636,53927.27,0.36,True
+Food & Snacks,2024-01-01,16039.34,1933,16039.34,,False
+Food & Snacks,2024-01-08,12616.47,1797,14327.9,0.79,False
+Food & Snacks,2024-01-15,12219.36,1524,13625.06,0.85,False
+Food & Snacks,2024-01-22,14803.32,1770,13919.62,1.09,False
+Food & Snacks,2024-01-29,14056.92,1737,13424.02,1.01,False
+Food & Snacks,2024-02-05,11824.18,1530,13225.95,0.88,False
+Food & Snacks,2024-02-12,14679.93,1844,13841.09,1.11,False
+Food & Snacks,2024-02-19,12101.19,1455,13165.56,0.87,False
+Food & Snacks,2024-02-26,14303.52,1826,13227.21,1.09,False
+Food & Snacks,2024-03-04,16032.11,2095,14279.19,1.21,False
+Food & Snacks,2024-03-11,14346.9,1920,14195.93,1.0,False
+Food & Snacks,2024-03-18,16520.41,2023,15300.74,1.16,False
+Food & Snacks,2024-03-25,16212.49,1994,15777.98,1.06,False
+Food & Snacks,2024-04-01,15860.11,2009,15734.98,1.01,False
+Food & Snacks,2024-04-08,15744.73,1994,16084.44,1.0,False
+Food & Snacks,2024-04-15,15019.57,1963,15709.23,0.93,False
+Food & Snacks,2024-04-22,14276.48,1852,15225.22,0.91,False
+Food & Snacks,2024-04-29,16838.9,2151,15469.92,1.11,False
+Food & Snacks,2024-05-06,17491.9,2294,15906.71,1.13,False
+Food & Snacks,2024-05-13,15409.08,2151,16004.09,0.97,False
+Food & Snacks,2024-05-20,16597.39,2053,16584.32,1.04,False
+Food & Snacks,2024-05-27,15221.81,1944,16180.05,0.92,False
+Food & Snacks,2024-06-03,16498.83,2130,15931.78,1.02,False
+Food & Snacks,2024-06-10,15051.54,1957,15842.39,0.94,False
+Food & Snacks,2024-06-17,16622.72,2053,15848.73,1.05,False
+Food & Snacks,2024-06-24,16324.93,1949,16124.51,1.03,False
+Food & Snacks,2024-07-01,16274.55,2151,16068.44,1.01,False
+Food & Snacks,2024-07-08,16017.15,2028,16309.84,1.0,False
+Food & Snacks,2024-07-15,14712.83,1864,15832.37,0.9,False
+Food & Snacks,2024-07-22,16082.02,2180,15771.64,1.02,False
+Food & Snacks,2024-07-29,15183.73,1849,15498.93,0.96,False
+Food & Snacks,2024-08-05,16247.79,2109,15556.59,1.05,False
+Food & Snacks,2024-08-12,16537.36,2050,16012.73,1.06,False
+Food & Snacks,2024-08-19,18398.9,2122,16591.95,1.15,False
+Food & Snacks,2024-08-26,16579.89,2150,16940.99,1.0,False
+Food & Snacks,2024-09-02,15939.96,2050,16864.03,0.94,False
+Food & Snacks,2024-09-09,16789.59,2089,16927.09,1.0,False
+Food & Snacks,2024-09-16,15760.97,2018,16267.6,0.93,False
+Food & Snacks,2024-09-23,14682.42,1827,15793.23,0.9,False
+Food & Snacks,2024-09-30,16169.57,2074,15850.64,1.02,False
+Food & Snacks,2024-10-07,15666.46,1999,15569.86,0.99,False
+Food & Snacks,2024-10-14,15484.1,2023,15500.64,0.99,False
+Food & Snacks,2024-10-21,16676.01,2181,15999.04,1.08,False
+Food & Snacks,2024-10-28,15953.93,2160,15945.12,1.0,False
+Food & Snacks,2024-11-04,15249.85,1905,15840.97,0.96,False
+Food & Snacks,2024-11-11,18440.7,2299,16580.12,1.16,False
+Food & Snacks,2024-11-18,17017.35,2106,16665.46,1.03,False
+Food & Snacks,2024-11-25,19043.89,2368,17437.95,1.14,False
+Food & Snacks,2024-12-02,18637.52,2542,18284.87,1.07,False
+Food & Snacks,2024-12-09,18100.41,2201,18199.79,0.99,False
+Food & Snacks,2024-12-16,15782.24,2105,17891.02,0.87,False
+Food & Snacks,2024-12-23,17364.04,2368,17471.05,0.97,False
+Food & Snacks,2024-12-30,16014.02,2150,16815.18,0.92,False
+Food & Snacks,2025-01-06,14164.94,1817,15831.31,0.84,False
+Food & Snacks,2025-01-13,15448.51,1995,15747.88,0.98,False
+Food & Snacks,2025-01-20,15425.28,2070,15263.19,0.98,False
+Food & Snacks,2025-01-27,15387.32,1845,15106.51,1.01,False
+Food & Snacks,2025-02-03,16498.39,1959,15689.88,1.09,False
+Food & Snacks,2025-02-10,14843.78,1899,15538.69,0.95,False
+Food & Snacks,2025-02-17,16299.61,2123,15757.28,1.05,False
+Food & Snacks,2025-02-24,14800.41,1992,15610.55,0.94,False
+Food & Snacks,2025-03-03,15687.43,2011,15407.81,1.0,False
+Food & Snacks,2025-03-10,15385.51,2008,15543.24,1.0,False
+Food & Snacks,2025-03-17,17825.72,2193,15924.77,1.15,False
+Food & Snacks,2025-03-24,16661.04,2128,16389.93,1.05,False
+Food & Snacks,2025-03-31,15783.36,1962,16413.91,0.96,False
+Food & Snacks,2025-04-07,14799.81,2033,16267.48,0.9,False
+Food & Snacks,2025-04-14,16445.23,1974,15922.36,1.01,False
+Food & Snacks,2025-04-21,14945.99,1830,15493.6,0.94,False
+Food & Snacks,2025-04-28,17169.76,2129,15840.2,1.11,False
+Food & Snacks,2025-05-05,18820.97,2406,16845.49,1.19,False
+Food & Snacks,2025-05-12,15723.94,1897,16665.17,0.93,False
+Food & Snacks,2025-05-19,15512.57,2001,16806.81,0.93,False
+Food & Snacks,2025-05-26,15287.84,2005,16336.33,0.91,False
+Food & Snacks,2025-06-02,17869.03,2197,16098.35,1.09,False
+Food & Snacks,2025-06-09,15209.06,1971,15969.63,0.94,False
+Food & Snacks,2025-06-16,17325.79,2081,16422.93,1.08,False
+Food & Snacks,2025-06-23,14690.89,1964,16273.69,0.89,False
+Food & Snacks,2025-06-30,16664.8,2039,15972.63,1.02,False
+Food & Snacks,2025-07-07,15773.46,1910,16113.73,0.99,False
+Food & Snacks,2025-07-14,15804.0,1925,15733.29,0.98,False
+Food & Snacks,2025-07-21,15078.74,1826,15830.25,0.96,False
+Food & Snacks,2025-07-28,16360.24,2051,15754.11,1.03,False
+Food & Snacks,2025-08-04,15688.73,2041,15732.93,1.0,False
+Food & Snacks,2025-08-11,15847.63,1923,15743.84,1.01,False
+Food & Snacks,2025-08-18,14373.59,1803,15567.55,0.91,False
+Food & Snacks,2025-08-25,15874.13,1939,15446.02,1.02,False
+Food & Snacks,2025-09-01,15532.24,1819,15406.9,1.01,False
+Food & Snacks,2025-09-08,16634.25,2054,15603.55,1.08,False
+Food & Snacks,2025-09-15,17168.02,2178,16302.16,1.1,False
+Food & Snacks,2025-09-22,16870.5,2309,16551.25,1.03,False
+Food & Snacks,2025-09-29,18199.97,2259,17218.19,1.1,False
+Food & Snacks,2025-10-06,19374.6,2554,17903.27,1.13,False
+Food & Snacks,2025-10-13,17351.33,2379,17949.1,0.97,False
+Food & Snacks,2025-10-20,17506.73,2188,18108.16,0.98,False
+Food & Snacks,2025-10-27,19074.27,2527,18326.73,1.05,False
+Food & Snacks,2025-11-03,16584.93,2222,17629.32,0.9,False
+Food & Snacks,2025-11-10,16144.54,2046,17327.62,0.92,False
+Food & Snacks,2025-11-17,17576.88,2432,17345.16,1.01,False
+Food & Snacks,2025-11-24,21525.85,2908,17958.05,1.24,False
+Food & Snacks,2025-12-01,19685.25,2630,18733.13,1.1,False
+Food & Snacks,2025-12-08,17564.55,2239,19088.13,0.94,False
+Food & Snacks,2025-12-15,19173.81,2363,19487.36,1.0,False
+Food & Snacks,2025-12-22,17763.91,2400,18546.88,0.91,False
+Food & Snacks,2025-12-29,6405.07,916,15226.84,0.35,True
+Garden & Outdoor,2024-01-01,9913.48,297,9913.48,,False
+Garden & Outdoor,2024-01-08,9294.8,266,9604.14,0.94,False
+Garden & Outdoor,2024-01-15,9706.59,291,9638.29,1.01,False
+Garden & Outdoor,2024-01-22,10661.69,302,9894.14,1.11,False
+Garden & Outdoor,2024-01-29,11183.94,355,10211.76,1.13,False
+Garden & Outdoor,2024-02-05,15379.07,437,11732.82,1.51,False
+Garden & Outdoor,2024-02-12,14517.4,453,12935.53,1.24,False
+Garden & Outdoor,2024-02-19,12555.67,466,13409.02,0.97,False
+Garden & Outdoor,2024-02-26,21365.2,673,15954.34,1.59,False
+Garden & Outdoor,2024-03-04,33987.57,1083,20606.46,2.13,False
+Garden & Outdoor,2024-03-11,39758.64,1136,26916.77,1.93,False
+Garden & Outdoor,2024-03-18,35031.86,1121,32535.82,1.3,False
+Garden & Outdoor,2024-03-25,34889.39,1156,35916.87,1.07,False
+Garden & Outdoor,2024-04-01,51073.0,1651,40188.22,1.42,False
+Garden & Outdoor,2024-04-08,44465.68,1350,41364.98,1.11,False
+Garden & Outdoor,2024-04-15,46878.96,1430,44326.76,1.13,False
+Garden & Outdoor,2024-04-22,44120.28,1430,46634.48,1.0,False
+Garden & Outdoor,2024-04-29,51741.26,1635,46801.55,1.11,False
+Garden & Outdoor,2024-05-06,57022.93,1747,49940.86,1.22,False
+Garden & Outdoor,2024-05-13,54444.48,1722,51832.24,1.09,False
+Garden & Outdoor,2024-05-20,54607.59,1710,54454.07,1.05,False
+Garden & Outdoor,2024-05-27,49974.21,1562,54012.3,0.92,False
+Garden & Outdoor,2024-06-03,46948.59,1491,51493.72,0.87,False
+Garden & Outdoor,2024-06-10,48035.62,1441,49891.5,0.93,False
+Garden & Outdoor,2024-06-17,48983.35,1499,48485.44,0.98,False
+Garden & Outdoor,2024-06-24,46950.78,1486,47729.59,0.97,False
+Garden & Outdoor,2024-07-01,37060.99,1125,45257.69,0.78,False
+Garden & Outdoor,2024-07-08,37147.81,1139,42535.73,0.82,False
+Garden & Outdoor,2024-07-15,39262.71,1137,40105.57,0.92,False
+Garden & Outdoor,2024-07-22,36531.53,1140,37500.76,0.91,False
+Garden & Outdoor,2024-07-29,31375.04,952,36079.27,0.84,False
+Garden & Outdoor,2024-08-05,28879.82,828,34012.28,0.8,False
+Garden & Outdoor,2024-08-12,26425.93,856,30803.08,0.78,False
+Garden & Outdoor,2024-08-19,28330.94,897,28752.93,0.92,False
+Garden & Outdoor,2024-08-26,32641.47,910,29069.54,1.14,False
+Garden & Outdoor,2024-09-02,31009.5,875,29601.96,1.07,False
+Garden & Outdoor,2024-09-09,29313.5,884,30323.85,0.99,False
+Garden & Outdoor,2024-09-16,25274.41,729,29559.72,0.83,False
+Garden & Outdoor,2024-09-23,28476.69,866,28518.53,0.96,False
+Garden & Outdoor,2024-09-30,30844.98,896,28477.4,1.08,False
+Garden & Outdoor,2024-10-07,29493.63,846,28522.43,1.04,False
+Garden & Outdoor,2024-10-14,29331.03,945,29536.58,1.03,False
+Garden & Outdoor,2024-10-21,31935.67,931,30401.33,1.08,False
+Garden & Outdoor,2024-10-28,22755.83,658,28379.04,0.75,False
+Garden & Outdoor,2024-11-04,13096.86,397,24279.85,0.46,False
+Garden & Outdoor,2024-11-11,17071.74,453,21215.03,0.7,False
+Garden & Outdoor,2024-11-18,12696.76,383,16405.3,0.6,False
+Garden & Outdoor,2024-11-25,15960.1,493,14706.37,0.97,False
+Garden & Outdoor,2024-12-02,13524.54,394,14813.29,0.92,False
+Garden & Outdoor,2024-12-09,13172.29,431,13838.42,0.89,False
+Garden & Outdoor,2024-12-16,15140.2,431,14449.28,1.09,False
+Garden & Outdoor,2024-12-23,10223.92,347,13015.24,0.71,False
+Garden & Outdoor,2024-12-30,14112.5,460,13162.23,1.08,False
+Garden & Outdoor,2025-01-06,10259.71,315,12434.08,0.78,False
+Garden & Outdoor,2025-01-13,9029.54,282,10906.42,0.73,False
+Garden & Outdoor,2025-01-20,14787.3,410,12047.26,1.36,False
+Garden & Outdoor,2025-01-27,12455.86,362,11633.1,1.03,False
+Garden & Outdoor,2025-02-03,16217.58,516,13122.57,1.39,False
+Garden & Outdoor,2025-02-10,12598.47,435,14014.8,0.96,False
+Garden & Outdoor,2025-02-17,20037.54,598,15327.36,1.43,False
+Garden & Outdoor,2025-02-24,19029.85,679,16970.86,1.24,False
+Garden & Outdoor,2025-03-03,36021.6,1130,21921.86,2.12,False
+Garden & Outdoor,2025-03-10,36430.36,1123,27879.84,1.66,False
+Garden & Outdoor,2025-03-17,37284.75,1137,32191.64,1.34,False
+Garden & Outdoor,2025-03-24,32563.32,1103,35575.01,1.01,False
+Garden & Outdoor,2025-03-31,45076.28,1425,37838.68,1.27,False
+Garden & Outdoor,2025-04-07,54376.6,1631,42325.24,1.44,False
+Garden & Outdoor,2025-04-14,48030.44,1492,45011.66,1.13,False
+Garden & Outdoor,2025-04-21,49610.72,1426,49273.51,1.1,False
+Garden & Outdoor,2025-04-28,55119.65,1695,51784.35,1.12,False
+Garden & Outdoor,2025-05-05,60259.38,1937,53255.05,1.16,False
+Garden & Outdoor,2025-05-12,55982.97,1783,55243.18,1.05,False
+Garden & Outdoor,2025-05-19,51520.39,1604,55720.6,0.93,False
+Garden & Outdoor,2025-05-26,49346.38,1532,54277.28,0.89,False
+Garden & Outdoor,2025-06-02,58804.53,1748,53913.57,1.08,False
+Garden & Outdoor,2025-06-09,49236.85,1480,52227.04,0.91,False
+Garden & Outdoor,2025-06-16,47530.4,1480,51229.54,0.91,False
+Garden & Outdoor,2025-06-23,47455.85,1473,50756.91,0.93,False
+Garden & Outdoor,2025-06-30,37456.64,1210,45419.94,0.74,False
+Garden & Outdoor,2025-07-07,44143.41,1267,44146.58,0.97,False
+Garden & Outdoor,2025-07-14,37030.37,1140,41521.57,0.84,False
+Garden & Outdoor,2025-07-21,39463.64,1276,39523.52,0.95,False
+Garden & Outdoor,2025-07-28,36440.09,1005,39269.38,0.92,False
+Garden & Outdoor,2025-08-04,24559.63,806,34373.43,0.63,False
+Garden & Outdoor,2025-08-11,25316.4,844,31444.94,0.74,False
+Garden & Outdoor,2025-08-18,26575.8,820,28222.98,0.85,False
+Garden & Outdoor,2025-08-25,33098.87,950,27387.68,1.17,False
+Garden & Outdoor,2025-09-01,26622.73,794,27903.45,0.97,False
+Garden & Outdoor,2025-09-08,29707.62,913,29001.25,1.06,False
+Garden & Outdoor,2025-09-15,28775.42,899,29551.16,0.99,False
+Garden & Outdoor,2025-09-22,32599.19,958,29426.24,1.1,False
+Garden & Outdoor,2025-09-29,33070.86,1027,31038.27,1.12,False
+Garden & Outdoor,2025-10-06,27853.23,950,30574.68,0.9,False
+Garden & Outdoor,2025-10-13,32210.76,1005,31433.51,1.05,False
+Garden & Outdoor,2025-10-20,30288.11,939,30855.74,0.96,False
+Garden & Outdoor,2025-10-27,26681.54,847,29258.41,0.86,False
+Garden & Outdoor,2025-11-03,15185.87,468,26091.57,0.52,False
+Garden & Outdoor,2025-11-10,14684.99,453,21710.13,0.56,False
+Garden & Outdoor,2025-11-17,13019.32,400,17392.93,0.6,False
+Garden & Outdoor,2025-11-24,19092.86,608,15495.76,1.1,False
+Garden & Outdoor,2025-12-01,14471.01,431,15317.05,0.93,False
+Garden & Outdoor,2025-12-08,11515.28,339,14524.62,0.75,False
+Garden & Outdoor,2025-12-15,14489.6,468,14892.19,1.0,False
+Garden & Outdoor,2025-12-22,11161.67,373,12909.39,0.75,False
+Garden & Outdoor,2025-12-29,4722.97,134,10472.38,0.37,True
+Gifts & Seasonal,2024-01-01,11679.42,756,11679.42,,False
+Gifts & Seasonal,2024-01-08,9733.86,710,10706.64,0.83,False
+Gifts & Seasonal,2024-01-15,11445.41,866,10952.9,1.07,False
+Gifts & Seasonal,2024-01-22,12145.29,866,11251.0,1.11,False
+Gifts & Seasonal,2024-01-29,17059.82,1164,12596.1,1.52,False
+Gifts & Seasonal,2024-02-05,18007.06,1316,14664.4,1.43,False
+Gifts & Seasonal,2024-02-12,19182.46,1272,16598.66,1.31,False
+Gifts & Seasonal,2024-02-19,18263.51,1392,18128.21,1.1,False
+Gifts & Seasonal,2024-02-26,19874.4,1429,18831.86,1.1,False
+Gifts & Seasonal,2024-03-04,19299.38,1343,19154.94,1.02,False
+Gifts & Seasonal,2024-03-11,20660.11,1463,19524.35,1.08,False
+Gifts & Seasonal,2024-03-18,21521.6,1394,20338.87,1.1,False
+Gifts & Seasonal,2024-03-25,19842.14,1301,20330.81,0.98,False
+Gifts & Seasonal,2024-04-01,19309.72,1359,20333.39,0.95,False
+Gifts & Seasonal,2024-04-08,18116.24,1280,19697.43,0.89,False
+Gifts & Seasonal,2024-04-15,19535.33,1373,19200.86,0.99,False
+Gifts & Seasonal,2024-04-22,17920.94,1268,18720.56,0.93,False
+Gifts & Seasonal,2024-04-29,20857.4,1525,19107.48,1.11,False
+Gifts & Seasonal,2024-05-06,21373.88,1640,19921.89,1.12,False
+Gifts & Seasonal,2024-05-13,20850.97,1462,20250.8,1.05,False
+Gifts & Seasonal,2024-05-20,22833.56,1431,21478.95,1.13,False
+Gifts & Seasonal,2024-05-27,22112.99,1585,21792.85,1.03,False
+Gifts & Seasonal,2024-06-03,19644.49,1466,21360.5,0.9,False
+Gifts & Seasonal,2024-06-10,20104.14,1392,21173.8,0.94,False
+Gifts & Seasonal,2024-06-17,19163.55,1343,20256.29,0.91,False
+Gifts & Seasonal,2024-06-24,18920.3,1250,19458.12,0.93,False
+Gifts & Seasonal,2024-07-01,18779.73,1304,19241.93,0.97,False
+Gifts & Seasonal,2024-07-08,20281.7,1402,19286.32,1.05,False
+Gifts & Seasonal,2024-07-15,18095.44,1289,19019.29,0.94,False
+Gifts & Seasonal,2024-07-22,20655.69,1431,19453.14,1.09,False
+Gifts & Seasonal,2024-07-29,21277.88,1533,20077.68,1.09,False
+Gifts & Seasonal,2024-08-05,21141.77,1362,20292.7,1.05,False
+Gifts & Seasonal,2024-08-12,18483.4,1257,20389.68,0.91,False
+Gifts & Seasonal,2024-08-19,19600.55,1425,20125.9,0.96,False
+Gifts & Seasonal,2024-08-26,21802.72,1461,20257.11,1.08,False
+Gifts & Seasonal,2024-09-02,18796.29,1305,19670.74,0.93,False
+Gifts & Seasonal,2024-09-09,19207.04,1392,19851.65,0.98,False
+Gifts & Seasonal,2024-09-16,17972.56,1370,19444.65,0.91,False
+Gifts & Seasonal,2024-09-23,19702.52,1361,18919.6,1.01,False
+Gifts & Seasonal,2024-09-30,27510.4,1850,21098.13,1.45,False
+Gifts & Seasonal,2024-10-07,25844.65,1851,22757.53,1.22,False
+Gifts & Seasonal,2024-10-14,26014.96,1862,24768.13,1.14,False
+Gifts & Seasonal,2024-10-21,28511.9,1955,26970.48,1.15,False
+Gifts & Seasonal,2024-10-28,33967.23,2503,28584.69,1.26,False
+Gifts & Seasonal,2024-11-04,36403.57,2676,31224.42,1.27,False
+Gifts & Seasonal,2024-11-11,40443.91,3050,34831.65,1.3,False
+Gifts & Seasonal,2024-11-18,41267.52,3043,38020.56,1.18,False
+Gifts & Seasonal,2024-11-25,51402.93,3681,42379.48,1.35,False
+Gifts & Seasonal,2024-12-02,58474.8,4137,47897.29,1.38,False
+Gifts & Seasonal,2024-12-09,56366.71,3898,51877.99,1.18,False
+Gifts & Seasonal,2024-12-16,189234.39,14055,88869.71,3.65,False
+Gifts & Seasonal,2024-12-23,54170.49,3873,89561.6,0.61,False
+Gifts & Seasonal,2024-12-30,21922.66,1477,80423.56,0.24,False
+Gifts & Seasonal,2025-01-06,10283.74,724,68902.82,0.13,False
+Gifts & Seasonal,2025-01-13,10660.75,745,24259.41,0.15,False
+Gifts & Seasonal,2025-01-20,12176.61,805,13760.94,0.5,False
+Gifts & Seasonal,2025-01-27,14595.24,1092,11929.09,1.06,False
+Gifts & Seasonal,2025-02-03,19829.9,1305,14315.63,1.66,False
+Gifts & Seasonal,2025-02-10,19172.16,1411,16443.48,1.34,False
+Gifts & Seasonal,2025-02-17,23884.83,1578,19370.53,1.45,False
+Gifts & Seasonal,2025-02-24,20398.47,1383,20821.34,1.05,False
+Gifts & Seasonal,2025-03-03,19323.08,1316,20694.64,0.93,False
+Gifts & Seasonal,2025-03-10,21099.48,1484,21176.47,1.02,False
+Gifts & Seasonal,2025-03-17,22778.9,1532,20899.98,1.08,False
+Gifts & Seasonal,2025-03-24,21471.39,1525,21168.21,1.03,False
+Gifts & Seasonal,2025-03-31,19569.48,1392,21229.81,0.92,False
+Gifts & Seasonal,2025-04-07,19539.88,1378,20839.91,0.92,False
+Gifts & Seasonal,2025-04-14,18713.25,1401,19823.5,0.9,False
+Gifts & Seasonal,2025-04-21,19132.51,1287,19238.78,0.97,False
+Gifts & Seasonal,2025-04-28,21100.01,1441,19621.41,1.1,False
+Gifts & Seasonal,2025-05-05,20159.37,1420,19776.28,1.03,False
+Gifts & Seasonal,2025-05-12,23286.28,1573,20919.54,1.18,False
+Gifts & Seasonal,2025-05-19,21104.57,1465,21412.56,1.01,False
+Gifts & Seasonal,2025-05-26,20991.15,1595,21385.34,0.98,False
+Gifts & Seasonal,2025-06-02,21012.18,1450,21598.55,0.98,False
+Gifts & Seasonal,2025-06-09,18440.48,1276,20387.1,0.85,False
+Gifts & Seasonal,2025-06-16,20199.2,1465,20160.75,0.99,False
+Gifts & Seasonal,2025-06-23,18366.78,1264,19504.66,0.91,False
+Gifts & Seasonal,2025-06-30,22008.46,1715,19753.73,1.13,False
+Gifts & Seasonal,2025-07-07,22164.32,1471,20684.69,1.12,False
+Gifts & Seasonal,2025-07-14,24305.1,1606,21711.17,1.18,False
+Gifts & Seasonal,2025-07-21,20432.3,1356,22227.55,0.94,False
+Gifts & Seasonal,2025-07-28,19935.29,1401,21709.25,0.9,False
+Gifts & Seasonal,2025-08-04,18254.12,1227,20731.7,0.84,False
+Gifts & Seasonal,2025-08-11,17800.33,1218,19105.51,0.86,False
+Gifts & Seasonal,2025-08-18,19306.43,1371,18824.04,1.01,False
+Gifts & Seasonal,2025-08-25,20094.11,1355,18863.75,1.07,False
+Gifts & Seasonal,2025-09-01,22270.28,1629,19867.79,1.18,False
+Gifts & Seasonal,2025-09-08,22453.97,1511,21031.2,1.13,False
+Gifts & Seasonal,2025-09-15,22048.81,1595,21716.79,1.05,False
+Gifts & Seasonal,2025-09-22,20912.75,1521,21921.45,0.96,False
+Gifts & Seasonal,2025-09-29,26348.04,1887,22940.89,1.2,False
+Gifts & Seasonal,2025-10-06,27680.28,2044,24247.47,1.21,False
+Gifts & Seasonal,2025-10-13,27982.63,1947,25730.93,1.15,False
+Gifts & Seasonal,2025-10-20,28277.92,1959,27572.22,1.1,False
+Gifts & Seasonal,2025-10-27,37836.11,2706,30444.24,1.37,False
+Gifts & Seasonal,2025-11-03,42940.78,3082,34259.36,1.41,False
+Gifts & Seasonal,2025-11-10,40687.76,2906,37435.64,1.19,False
+Gifts & Seasonal,2025-11-17,39503.58,2960,40242.06,1.06,False
+Gifts & Seasonal,2025-11-24,52180.57,3488,43828.17,1.3,False
+Gifts & Seasonal,2025-12-01,60864.62,4215,48309.13,1.39,False
+Gifts & Seasonal,2025-12-08,54165.12,4101,51678.47,1.12,False
+Gifts & Seasonal,2025-12-15,56499.54,3915,55927.46,1.09,False
+Gifts & Seasonal,2025-12-22,59036.83,4110,57641.53,1.06,False
+Gifts & Seasonal,2025-12-29,22622.03,1686,48080.88,0.39,True
+Health & Wellness,2024-01-01,20512.82,1308,20512.82,,False
+Health & Wellness,2024-01-08,19730.95,1213,20121.89,0.96,False
+Health & Wellness,2024-01-15,18099.76,1075,19447.84,0.9,False
+Health & Wellness,2024-01-22,19110.49,1090,19363.51,0.98,False
+Health & Wellness,2024-01-29,16573.36,1004,18378.64,0.86,False
+Health & Wellness,2024-02-05,15546.17,885,17332.45,0.85,False
+Health & Wellness,2024-02-12,14756.06,878,16496.52,0.85,False
+Health & Wellness,2024-02-19,16626.66,903,15875.56,1.01,False
+Health & Wellness,2024-02-26,14070.92,776,15249.95,0.89,False
+Health & Wellness,2024-03-04,12608.22,716,14515.47,0.83,False
+Health & Wellness,2024-03-11,13626.98,789,14233.2,0.94,False
+Health & Wellness,2024-03-18,13198.52,843,13376.16,0.93,False
+Health & Wellness,2024-03-25,13326.96,823,13190.17,1.0,False
+Health & Wellness,2024-04-01,16199.61,896,14088.02,1.23,False
+Health & Wellness,2024-04-08,13032.4,771,13939.37,0.93,False
+Health & Wellness,2024-04-15,12442.64,736,13750.4,0.89,False
+Health & Wellness,2024-04-22,12249.83,808,13481.12,0.89,False
+Health & Wellness,2024-04-29,13866.18,825,12897.76,1.03,False
+Health & Wellness,2024-05-06,17535.3,979,14023.49,1.36,False
+Health & Wellness,2024-05-13,14329.78,880,14495.27,1.02,False
+Health & Wellness,2024-05-20,13269.96,873,14750.31,0.92,False
+Health & Wellness,2024-05-27,13797.88,745,14733.23,0.94,False
+Health & Wellness,2024-06-03,12922.48,784,13580.02,0.88,False
+Health & Wellness,2024-06-10,12682.55,793,13168.22,0.93,False
+Health & Wellness,2024-06-17,12424.46,722,12956.84,0.94,False
+Health & Wellness,2024-06-24,12936.33,797,12741.46,1.0,False
+Health & Wellness,2024-07-01,14510.79,876,13138.53,1.14,False
+Health & Wellness,2024-07-08,12005.21,738,12969.2,0.91,False
+Health & Wellness,2024-07-15,12283.66,767,12934.0,0.95,False
+Health & Wellness,2024-07-22,14213.64,854,13253.33,1.1,False
+Health & Wellness,2024-07-29,12226.92,735,12682.36,0.92,False
+Health & Wellness,2024-08-05,15565.22,870,13572.36,1.23,False
+Health & Wellness,2024-08-12,14161.23,876,14041.75,1.04,False
+Health & Wellness,2024-08-19,15974.93,851,14482.07,1.14,False
+Health & Wellness,2024-08-26,13142.94,803,14711.08,0.91,False
+Health & Wellness,2024-09-02,13170.87,789,14112.49,0.9,False
+Health & Wellness,2024-09-09,15908.97,866,14549.43,1.13,False
+Health & Wellness,2024-09-16,14835.22,798,14264.5,1.02,False
+Health & Wellness,2024-09-23,16898.66,909,15203.43,1.18,False
+Health & Wellness,2024-09-30,14618.38,832,15565.31,0.96,False
+Health & Wellness,2024-10-07,15869.93,870,15555.55,1.02,False
+Health & Wellness,2024-10-14,15863.66,930,15812.66,1.02,False
+Health & Wellness,2024-10-21,15087.96,909,15359.98,0.95,False
+Health & Wellness,2024-10-28,13771.46,827,15148.25,0.9,False
+Health & Wellness,2024-11-04,13502.93,851,14556.5,0.89,False
+Health & Wellness,2024-11-11,14822.54,906,14296.22,1.02,False
+Health & Wellness,2024-11-18,12540.18,810,13659.28,0.88,False
+Health & Wellness,2024-11-25,18315.89,1118,14795.39,1.34,False
+Health & Wellness,2024-12-02,15938.29,976,15404.23,1.08,False
+Health & Wellness,2024-12-09,14602.6,928,15349.24,0.95,False
+Health & Wellness,2024-12-16,13958.79,821,15703.89,0.91,False
+Health & Wellness,2024-12-23,14089.23,867,14647.23,0.9,False
+Health & Wellness,2024-12-30,21461.13,1268,16027.94,1.47,False
+Health & Wellness,2025-01-06,21753.6,1259,17815.69,1.36,False
+Health & Wellness,2025-01-13,22370.58,1237,19918.64,1.26,False
+Health & Wellness,2025-01-20,20901.06,1170,21621.59,1.05,False
+Health & Wellness,2025-01-27,20569.42,1181,21398.67,0.95,False
+Health & Wellness,2025-02-03,16040.3,913,19970.34,0.75,False
+Health & Wellness,2025-02-10,15923.51,1000,18358.57,0.8,False
+Health & Wellness,2025-02-17,19008.47,1048,17885.43,1.04,False
+Health & Wellness,2025-02-24,14368.98,831,16335.31,0.8,False
+Health & Wellness,2025-03-03,18248.58,960,16887.39,1.12,False
+Health & Wellness,2025-03-10,11957.19,717,15895.81,0.71,False
+Health & Wellness,2025-03-17,15056.7,936,14907.86,0.95,False
+Health & Wellness,2025-03-24,13314.17,790,14644.16,0.89,False
+Health & Wellness,2025-03-31,14357.81,866,13671.47,0.98,False
+Health & Wellness,2025-04-07,14901.22,944,14407.48,1.09,False
+Health & Wellness,2025-04-14,15414.16,872,14496.84,1.07,False
+Health & Wellness,2025-04-21,12289.57,744,14240.69,0.85,False
+Health & Wellness,2025-04-28,13245.02,748,13962.49,0.93,False
+Health & Wellness,2025-05-05,13716.17,878,13666.23,0.98,False
+Health & Wellness,2025-05-12,16360.06,1005,13902.71,1.2,False
+Health & Wellness,2025-05-19,14094.28,841,14353.88,1.01,False
+Health & Wellness,2025-05-26,13794.77,843,14491.32,0.96,False
+Health & Wellness,2025-06-02,15526.9,890,14944.0,1.07,False
+Health & Wellness,2025-06-09,13214.6,757,14157.64,0.88,False
+Health & Wellness,2025-06-16,14118.53,854,14163.7,1.0,False
+Health & Wellness,2025-06-23,14685.68,884,14386.43,1.04,False
+Health & Wellness,2025-06-30,14813.72,899,14208.13,1.03,False
+Health & Wellness,2025-07-07,13976.04,893,14398.49,0.98,False
+Health & Wellness,2025-07-14,14654.51,838,14532.49,1.02,False
+Health & Wellness,2025-07-21,13167.57,795,14152.96,0.91,False
+Health & Wellness,2025-07-28,12918.82,773,13679.24,0.91,False
+Health & Wellness,2025-08-04,15223.16,934,13991.02,1.11,False
+Health & Wellness,2025-08-11,14318.84,789,13907.1,1.02,False
+Health & Wellness,2025-08-18,14510.29,871,14242.78,1.04,False
+Health & Wellness,2025-08-25,15431.75,877,14871.01,1.08,False
+Health & Wellness,2025-09-01,12839.06,752,14274.99,0.86,False
+Health & Wellness,2025-09-08,14033.93,789,14203.76,0.98,False
+Health & Wellness,2025-09-15,14548.65,827,14213.35,1.02,False
+Health & Wellness,2025-09-22,15973.42,939,14348.77,1.12,False
+Health & Wellness,2025-09-29,16824.97,1100,15345.24,1.17,False
+Health & Wellness,2025-10-06,15353.76,891,15675.2,1.0,False
+Health & Wellness,2025-10-13,16545.96,930,16174.53,1.06,False
+Health & Wellness,2025-10-20,16421.53,984,16286.56,1.02,False
+Health & Wellness,2025-10-27,15298.01,933,15904.82,0.94,False
+Health & Wellness,2025-11-03,16055.87,1010,16080.34,1.01,False
+Health & Wellness,2025-11-10,15733.35,933,15877.19,0.98,False
+Health & Wellness,2025-11-17,14257.65,926,15336.22,0.9,False
+Health & Wellness,2025-11-24,18153.1,1071,16049.99,1.18,False
+Health & Wellness,2025-12-01,18258.22,1116,16600.58,1.14,False
+Health & Wellness,2025-12-08,15514.2,961,16545.79,0.93,False
+Health & Wellness,2025-12-15,13609.99,873,16383.88,0.82,False
+Health & Wellness,2025-12-22,16688.89,1000,16017.82,1.02,False
+Health & Wellness,2025-12-29,5625.59,375,12859.67,0.35,True
+Home Décor,2024-01-01,19403.44,1554,19403.44,,False
+Home Décor,2024-01-08,19737.53,1437,19570.49,1.02,False
+Home Décor,2024-01-15,20176.64,1676,19772.54,1.03,False
+Home Décor,2024-01-22,21600.03,1585,20229.41,1.09,False
+Home Décor,2024-01-29,22403.0,1623,20979.3,1.11,False
+Home Décor,2024-02-05,21595.54,1620,21443.8,1.03,False
+Home Décor,2024-02-12,20671.33,1589,21567.48,0.96,False
+Home Décor,2024-02-19,18716.46,1452,20846.58,0.87,False
+Home Décor,2024-02-26,20180.92,1551,20291.06,0.97,False
+Home Décor,2024-03-04,23788.41,1697,20839.28,1.17,False
+Home Décor,2024-03-11,21268.53,1617,20988.58,1.02,False
+Home Décor,2024-03-18,22898.81,1705,22034.17,1.09,False
+Home Décor,2024-03-25,23562.72,1817,22879.62,1.07,False
+Home Décor,2024-04-01,21609.27,1659,22334.83,0.94,False
+Home Décor,2024-04-08,21888.67,1755,22489.87,0.98,False
+Home Décor,2024-04-15,21421.37,1646,22120.51,0.95,False
+Home Décor,2024-04-22,22019.27,1729,21734.65,1.0,False
+Home Décor,2024-04-29,22183.92,1656,21878.31,1.02,False
+Home Décor,2024-05-06,22864.72,1703,22122.32,1.05,False
+Home Décor,2024-05-13,22065.87,1724,22283.45,1.0,False
+Home Décor,2024-05-20,21724.34,1650,22209.71,0.97,False
+Home Décor,2024-05-27,24080.1,1744,22683.76,1.08,False
+Home Décor,2024-06-03,22917.28,1787,22696.9,1.01,False
+Home Décor,2024-06-10,24702.42,1853,23356.04,1.09,False
+Home Décor,2024-06-17,23627.71,1692,23831.88,1.01,False
+Home Décor,2024-06-24,24083.16,1836,23832.64,1.01,False
+Home Décor,2024-07-01,23320.64,1831,23933.48,0.98,False
+Home Décor,2024-07-08,23189.84,1785,23555.34,0.97,False
+Home Décor,2024-07-15,24565.17,1813,23789.7,1.04,False
+Home Décor,2024-07-22,22849.29,1796,23481.24,0.96,False
+Home Décor,2024-07-29,23325.13,1785,23482.36,0.99,False
+Home Décor,2024-08-05,23864.27,1828,23650.97,1.02,False
+Home Décor,2024-08-12,23549.24,1801,23396.98,1.0,False
+Home Décor,2024-08-19,24201.49,1855,23735.03,1.03,False
+Home Décor,2024-08-26,25278.83,1881,24223.46,1.07,False
+Home Décor,2024-09-02,22638.32,1654,23916.97,0.93,False
+Home Décor,2024-09-09,23455.33,1829,23893.49,0.98,False
+Home Décor,2024-09-16,24207.76,1813,23895.06,1.01,False
+Home Décor,2024-09-23,22013.94,1717,23078.84,0.92,False
+Home Décor,2024-09-30,23114.35,1813,23197.85,1.0,False
+Home Décor,2024-10-07,23387.15,1766,23180.8,1.01,False
+Home Décor,2024-10-14,24791.43,1833,23326.72,1.07,False
+Home Décor,2024-10-21,24608.72,2033,23975.41,1.05,False
+Home Décor,2024-10-28,24134.04,1832,24230.34,1.01,False
+Home Décor,2024-11-04,25104.73,1952,24659.73,1.04,False
+Home Décor,2024-11-11,23025.44,1798,24218.23,0.93,False
+Home Décor,2024-11-18,25536.02,2047,24450.06,1.05,False
+Home Décor,2024-11-25,28180.46,2188,25461.66,1.15,False
+Home Décor,2024-12-02,27554.66,2106,26074.15,1.08,False
+Home Décor,2024-12-09,25742.93,2029,26753.52,0.99,False
+Home Décor,2024-12-16,20994.15,1584,25618.05,0.78,False
+Home Décor,2024-12-23,22627.18,1765,24229.73,0.88,False
+Home Décor,2024-12-30,24359.54,1783,23430.95,1.01,False
+Home Décor,2025-01-06,22959.6,1642,22735.12,0.98,False
+Home Décor,2025-01-13,22595.05,1708,23135.34,0.99,False
+Home Décor,2025-01-20,22264.86,1752,23044.76,0.96,False
+Home Décor,2025-01-27,23786.32,1897,22901.46,1.03,False
+Home Décor,2025-02-03,24401.7,1867,23261.98,1.07,False
+Home Décor,2025-02-10,19601.24,1499,22513.53,0.84,False
+Home Décor,2025-02-17,23392.32,1771,22795.4,1.04,False
+Home Décor,2025-02-24,25570.32,1834,23241.4,1.12,False
+Home Décor,2025-03-03,25992.42,1996,23639.08,1.12,False
+Home Décor,2025-03-10,25974.23,1886,25232.32,1.1,False
+Home Décor,2025-03-17,26718.41,1847,26063.85,1.06,False
+Home Décor,2025-03-24,25075.43,2002,25940.12,0.96,False
+Home Décor,2025-03-31,21885.37,1648,24913.36,0.84,False
+Home Décor,2025-04-07,25512.19,1962,24797.85,1.02,False
+Home Décor,2025-04-14,24584.39,1921,24264.35,0.99,False
+Home Décor,2025-04-21,22261.27,1626,23560.81,0.92,False
+Home Décor,2025-04-28,21579.58,1569,23484.36,0.92,False
+Home Décor,2025-05-05,22949.48,1798,22843.68,0.98,False
+Home Décor,2025-05-12,24894.76,1767,22921.27,1.09,False
+Home Décor,2025-05-19,25505.61,1850,23732.36,1.11,False
+Home Décor,2025-05-26,23788.92,1747,24284.69,1.0,False
+Home Décor,2025-06-02,26237.23,1929,25106.63,1.08,False
+Home Décor,2025-06-09,22694.99,1726,24556.69,0.9,False
+Home Décor,2025-06-16,22253.45,1669,23743.65,0.91,False
+Home Décor,2025-06-23,26025.56,1958,24302.81,1.1,False
+Home Décor,2025-06-30,25495.64,1834,24117.41,1.05,False
+Home Décor,2025-07-07,22697.95,1660,24118.15,0.94,False
+Home Décor,2025-07-14,23269.11,1702,24372.07,0.96,False
+Home Décor,2025-07-21,23198.75,1826,23665.36,0.95,False
+Home Décor,2025-07-28,22661.51,1715,22956.83,0.96,False
+Home Décor,2025-08-04,20527.28,1505,22414.16,0.89,False
+Home Décor,2025-08-11,21332.61,1662,21930.04,0.95,False
+Home Décor,2025-08-18,23095.98,1683,21904.34,1.05,False
+Home Décor,2025-08-25,24979.85,1883,22483.93,1.14,False
+Home Décor,2025-09-01,24455.78,1719,23466.06,1.09,False
+Home Décor,2025-09-08,22700.97,1755,23808.15,0.97,False
+Home Décor,2025-09-15,22959.45,1741,23774.01,0.96,False
+Home Décor,2025-09-22,24351.74,1812,23616.99,1.02,False
+Home Décor,2025-09-29,24819.01,1888,23707.79,1.05,False
+Home Décor,2025-10-06,24301.12,1883,24107.83,1.03,False
+Home Décor,2025-10-13,27448.33,2026,25230.05,1.14,False
+Home Décor,2025-10-20,24065.99,2003,25158.61,0.95,False
+Home Décor,2025-10-27,28897.78,2058,26178.31,1.15,False
+Home Décor,2025-11-03,26664.74,2124,26769.21,1.02,False
+Home Décor,2025-11-10,25456.03,1984,26271.14,0.95,False
+Home Décor,2025-11-17,26212.94,1919,26807.87,1.0,False
+Home Décor,2025-11-24,32392.06,2505,27681.44,1.21,False
+Home Décor,2025-12-01,29920.83,2332,28495.47,1.08,False
+Home Décor,2025-12-08,24978.09,1891,28375.98,0.88,False
+Home Décor,2025-12-15,26621.39,2143,28478.09,0.94,False
+Home Décor,2025-12-22,26836.1,2048,27089.1,0.94,False
+Home Décor,2025-12-29,9828.82,721,22066.1,0.36,True
+Kitchen & Dining,2024-01-01,27907.48,1786,27907.48,,False
+Kitchen & Dining,2024-01-08,26019.55,1838,26963.52,0.93,False
+Kitchen & Dining,2024-01-15,24563.74,1663,26163.59,0.91,False
+Kitchen & Dining,2024-01-22,25818.72,1778,26077.37,0.99,False
+Kitchen & Dining,2024-01-29,25426.78,1800,25457.2,0.98,False
+Kitchen & Dining,2024-02-05,23818.94,1677,24907.05,0.94,False
+Kitchen & Dining,2024-02-12,28337.15,1780,25850.4,1.14,False
+Kitchen & Dining,2024-02-19,25145.83,1783,25682.18,0.97,False
+Kitchen & Dining,2024-02-26,27192.5,1822,26123.61,1.06,False
+Kitchen & Dining,2024-03-04,29283.93,1913,27489.85,1.12,False
+Kitchen & Dining,2024-03-11,28043.81,1855,27416.52,1.02,False
+Kitchen & Dining,2024-03-18,31260.4,2051,28945.16,1.14,False
+Kitchen & Dining,2024-03-25,30123.0,1969,29677.79,1.04,False
+Kitchen & Dining,2024-04-01,29887.5,1957,29828.68,1.01,False
+Kitchen & Dining,2024-04-08,32091.17,2083,30840.52,1.08,False
+Kitchen & Dining,2024-04-15,27737.62,1944,29959.82,0.9,False
+Kitchen & Dining,2024-04-22,30832.89,2034,30137.3,1.03,False
+Kitchen & Dining,2024-04-29,27811.75,1926,29618.36,0.92,False
+Kitchen & Dining,2024-05-06,28912.79,1981,28823.76,0.98,False
+Kitchen & Dining,2024-05-13,30147.98,2012,29426.35,1.05,False
+Kitchen & Dining,2024-05-20,31088.94,2060,29490.37,1.06,False
+Kitchen & Dining,2024-05-27,28340.82,2073,29622.63,0.96,False
+Kitchen & Dining,2024-06-03,28381.69,1985,29489.86,0.96,False
+Kitchen & Dining,2024-06-10,29264.08,2213,29268.88,0.99,False
+Kitchen & Dining,2024-06-17,27644.15,2003,28407.68,0.94,False
+Kitchen & Dining,2024-06-24,27814.75,1849,28276.17,0.98,False
+Kitchen & Dining,2024-07-01,29636.02,2078,28589.75,1.05,False
+Kitchen & Dining,2024-07-08,28800.88,2034,28473.95,1.01,False
+Kitchen & Dining,2024-07-15,28586.81,2004,28709.62,1.0,False
+Kitchen & Dining,2024-07-22,31937.31,2039,29740.26,1.11,False
+Kitchen & Dining,2024-07-29,30427.57,2095,29938.14,1.02,False
+Kitchen & Dining,2024-08-05,29294.71,2035,30061.6,0.98,False
+Kitchen & Dining,2024-08-12,28949.24,1954,30152.21,0.96,False
+Kitchen & Dining,2024-08-19,29791.24,2046,29615.69,0.99,False
+Kitchen & Dining,2024-08-26,31080.02,2243,29778.8,1.05,False
+Kitchen & Dining,2024-09-02,27931.24,1862,29437.94,0.94,False
+Kitchen & Dining,2024-09-09,29041.79,1867,29461.07,0.99,False
+Kitchen & Dining,2024-09-16,31664.29,2097,29929.34,1.07,False
+Kitchen & Dining,2024-09-23,27768.49,1843,29101.45,0.93,False
+Kitchen & Dining,2024-09-30,31858.74,2186,30083.33,1.09,False
+Kitchen & Dining,2024-10-07,37876.33,2526,32291.96,1.26,False
+Kitchen & Dining,2024-10-14,30613.4,2088,32029.24,0.95,False
+Kitchen & Dining,2024-10-21,32090.03,2188,33109.63,1.0,False
+Kitchen & Dining,2024-10-28,33913.64,2435,33623.35,1.02,False
+Kitchen & Dining,2024-11-04,39679.73,2732,34074.2,1.18,False
+Kitchen & Dining,2024-11-11,40885.84,2927,36642.31,1.2,False
+Kitchen & Dining,2024-11-18,40543.68,2838,38755.72,1.11,False
+Kitchen & Dining,2024-11-25,45040.37,3212,41537.41,1.16,False
+Kitchen & Dining,2024-12-02,43235.09,3069,42426.24,1.04,False
+Kitchen & Dining,2024-12-09,43448.37,3132,43066.88,1.02,False
+Kitchen & Dining,2024-12-16,38262.03,2432,42496.47,0.89,False
+Kitchen & Dining,2024-12-23,41030.61,2623,41494.02,0.97,False
+Kitchen & Dining,2024-12-30,35082.23,2342,39455.81,0.85,False
+Kitchen & Dining,2025-01-06,30074.07,2033,36112.24,0.76,False
+Kitchen & Dining,2025-01-13,26345.14,1910,33133.01,0.73,False
+Kitchen & Dining,2025-01-20,29524.96,2058,30256.6,0.89,False
+Kitchen & Dining,2025-01-27,28426.59,1894,28592.69,0.94,False
+Kitchen & Dining,2025-02-03,30116.18,2261,28603.22,1.05,False
+Kitchen & Dining,2025-02-10,26181.99,1778,28562.43,0.92,False
+Kitchen & Dining,2025-02-17,27975.75,2081,28175.13,0.98,False
+Kitchen & Dining,2025-02-24,32305.75,1989,29144.92,1.15,False
+Kitchen & Dining,2025-03-03,30192.88,1955,29164.09,1.04,False
+Kitchen & Dining,2025-03-10,32610.78,2105,30771.29,1.12,False
+Kitchen & Dining,2025-03-17,31494.22,2300,31650.91,1.02,False
+Kitchen & Dining,2025-03-24,29155.56,2038,30863.36,0.92,False
+Kitchen & Dining,2025-03-31,29994.25,2074,30813.7,0.97,False
+Kitchen & Dining,2025-04-07,33429.29,2163,31018.33,1.08,False
+Kitchen & Dining,2025-04-14,28912.13,2181,30372.81,0.93,False
+Kitchen & Dining,2025-04-21,30220.29,2162,30638.99,0.99,False
+Kitchen & Dining,2025-04-28,29959.76,2012,30630.37,0.98,False
+Kitchen & Dining,2025-05-05,31523.86,2233,30154.01,1.03,False
+Kitchen & Dining,2025-05-12,32021.01,2285,30931.23,1.06,False
+Kitchen & Dining,2025-05-19,29548.48,2058,30763.28,0.96,False
+Kitchen & Dining,2025-05-26,29989.73,2129,30770.77,0.97,False
+Kitchen & Dining,2025-06-02,33572.22,2334,31282.86,1.09,False
+Kitchen & Dining,2025-06-09,26853.6,1882,29991.01,0.86,False
+Kitchen & Dining,2025-06-16,29467.66,2022,29970.8,0.98,False
+Kitchen & Dining,2025-06-23,30884.84,2072,30194.58,1.03,False
+Kitchen & Dining,2025-06-30,28698.49,2017,28976.15,0.95,False
+Kitchen & Dining,2025-07-07,34879.1,2338,30982.52,1.2,False
+Kitchen & Dining,2025-07-14,31930.79,2243,31598.31,1.03,False
+Kitchen & Dining,2025-07-21,28779.83,2015,31072.05,0.91,False
+Kitchen & Dining,2025-07-28,32182.79,2080,31943.13,1.04,False
+Kitchen & Dining,2025-08-04,26315.51,1833,29802.23,0.82,False
+Kitchen & Dining,2025-08-11,29433.8,2064,29177.98,0.99,False
+Kitchen & Dining,2025-08-18,29552.03,1932,29371.03,1.01,False
+Kitchen & Dining,2025-08-25,30133.25,2085,28858.65,1.03,False
+Kitchen & Dining,2025-09-01,32509.51,2177,30407.15,1.13,False
+Kitchen & Dining,2025-09-08,30786.97,1984,30745.44,1.01,False
+Kitchen & Dining,2025-09-15,29263.9,2015,30673.41,0.95,False
+Kitchen & Dining,2025-09-22,29659.95,2042,30555.08,0.97,False
+Kitchen & Dining,2025-09-29,35022.69,2393,31183.38,1.15,False
+Kitchen & Dining,2025-10-06,35986.99,2365,32483.38,1.15,False
+Kitchen & Dining,2025-10-13,32810.84,2319,33370.12,1.01,False
+Kitchen & Dining,2025-10-20,34210.97,2318,34507.87,1.03,False
+Kitchen & Dining,2025-10-27,38898.87,2718,35476.92,1.13,False
+Kitchen & Dining,2025-11-03,42081.3,2922,37000.49,1.19,False
+Kitchen & Dining,2025-11-10,41352.0,2932,39135.79,1.12,False
+Kitchen & Dining,2025-11-17,45054.57,3211,41846.69,1.15,False
+Kitchen & Dining,2025-11-24,54101.22,3664,45647.27,1.29,False
+Kitchen & Dining,2025-12-01,47905.14,3480,47103.23,1.05,False
+Kitchen & Dining,2025-12-08,43601.38,3069,47665.58,0.93,False
+Kitchen & Dining,2025-12-15,41530.67,2913,46784.6,0.87,False
+Kitchen & Dining,2025-12-22,46345.52,3233,44845.68,0.99,False
+Kitchen & Dining,2025-12-29,16031.98,1066,36877.39,0.36,True
+Personal Care,2024-01-01,17150.62,1342,17150.62,,False
+Personal Care,2024-01-08,16182.23,1273,16666.43,0.94,False
+Personal Care,2024-01-15,16922.26,1317,16751.7,1.02,False
+Personal Care,2024-01-22,17632.44,1368,16971.89,1.05,False
+Personal Care,2024-01-29,18054.25,1402,17197.8,1.06,False
+Personal Care,2024-02-05,16530.94,1319,17284.97,0.96,False
+Personal Care,2024-02-12,19196.06,1501,17853.42,1.11,False
+Personal Care,2024-02-19,16398.76,1282,17545.0,0.92,False
+Personal Care,2024-02-26,18916.56,1477,17760.58,1.08,False
+Personal Care,2024-03-04,18810.62,1465,18330.5,1.06,False
+Personal Care,2024-03-11,19603.63,1591,18432.39,1.07,False
+Personal Care,2024-03-18,20493.23,1622,19456.01,1.11,False
+Personal Care,2024-03-25,20154.46,1520,19765.49,1.04,False
+Personal Care,2024-04-01,19510.03,1506,19940.34,0.99,False
+Personal Care,2024-04-08,16817.06,1361,19243.7,0.84,False
+Personal Care,2024-04-15,18499.89,1477,18745.36,0.96,False
+Personal Care,2024-04-22,16567.62,1273,17848.65,0.88,False
+Personal Care,2024-04-29,19836.81,1528,17930.34,1.11,False
+Personal Care,2024-05-06,20510.57,1615,18853.72,1.14,False
+Personal Care,2024-05-13,18559.22,1502,18868.56,0.98,False
+Personal Care,2024-05-20,19161.01,1564,19516.9,1.02,False
+Personal Care,2024-05-27,18369.81,1556,19150.15,0.94,False
+Personal Care,2024-06-03,20341.01,1543,19107.76,1.06,False
+Personal Care,2024-06-10,17632.06,1368,18875.97,0.92,False
+Personal Care,2024-06-17,19523.85,1525,18966.68,1.03,False
+Personal Care,2024-06-24,19350.92,1417,19211.96,1.02,False
+Personal Care,2024-07-01,17850.62,1393,18589.36,0.93,False
+Personal Care,2024-07-08,19370.03,1519,19023.86,1.04,False
+Personal Care,2024-07-15,17984.17,1437,18638.93,0.95,False
+Personal Care,2024-07-22,18000.18,1485,18301.25,0.97,False
+Personal Care,2024-07-29,18146.79,1438,18375.29,0.99,False
+Personal Care,2024-08-05,19177.06,1520,18327.05,1.04,False
+Personal Care,2024-08-12,19090.54,1463,18603.64,1.04,False
+Personal Care,2024-08-19,21006.41,1588,19355.2,1.13,False
+Personal Care,2024-08-26,22829.02,1780,20525.76,1.18,False
+Personal Care,2024-09-02,19103.87,1471,20507.46,0.93,False
+Personal Care,2024-09-09,19547.62,1538,20621.73,0.95,False
+Personal Care,2024-09-16,18631.27,1511,20027.95,0.9,False
+Personal Care,2024-09-23,18484.88,1449,18941.91,0.92,False
+Personal Care,2024-09-30,20758.19,1571,19355.49,1.1,False
+Personal Care,2024-10-07,22705.28,1737,20144.91,1.17,False
+Personal Care,2024-10-14,19168.34,1535,20279.17,0.95,False
+Personal Care,2024-10-21,22061.21,1753,21173.25,1.09,False
+Personal Care,2024-10-28,19082.35,1520,20754.3,0.9,False
+Personal Care,2024-11-04,19899.5,1529,20052.85,0.96,False
+Personal Care,2024-11-11,20328.77,1612,20342.96,1.01,False
+Personal Care,2024-11-18,19719.09,1601,19757.43,0.97,False
+Personal Care,2024-11-25,21684.93,1791,20408.07,1.1,False
+Personal Care,2024-12-02,22668.78,1796,21100.39,1.11,False
+Personal Care,2024-12-09,20926.25,1655,21249.76,0.99,False
+Personal Care,2024-12-16,18567.35,1409,20961.83,0.87,False
+Personal Care,2024-12-23,21049.94,1690,20803.08,1.0,False
+Personal Care,2024-12-30,18089.5,1484,19658.26,0.87,False
+Personal Care,2025-01-06,19873.9,1571,19395.17,1.01,False
+Personal Care,2025-01-13,20697.29,1632,19927.66,1.07,False
+Personal Care,2025-01-20,17934.52,1317,19148.8,0.9,False
+Personal Care,2025-01-27,18210.87,1415,19179.15,0.95,False
+Personal Care,2025-02-03,17733.21,1357,18643.97,0.92,False
+Personal Care,2025-02-10,17144.64,1374,17755.81,0.92,False
+Personal Care,2025-02-17,20229.43,1553,18329.54,1.14,False
+Personal Care,2025-02-24,20274.2,1697,18845.37,1.11,False
+Personal Care,2025-03-03,18979.97,1477,19157.06,1.01,False
+Personal Care,2025-03-10,18969.95,1501,19613.39,0.99,False
+Personal Care,2025-03-17,20258.96,1531,19620.77,1.03,False
+Personal Care,2025-03-24,19429.26,1503,19409.54,0.99,False
+Personal Care,2025-03-31,19932.97,1570,19647.79,1.03,False
+Personal Care,2025-04-07,20950.42,1644,20142.9,1.07,False
+Personal Care,2025-04-14,20283.18,1576,20148.96,1.01,False
+Personal Care,2025-04-21,18792.77,1527,19989.84,0.93,False
+Personal Care,2025-04-28,18575.71,1493,19650.52,0.93,False
+Personal Care,2025-05-05,19882.27,1490,19383.48,1.01,False
+Personal Care,2025-05-12,19315.17,1517,19141.48,1.0,False
+Personal Care,2025-05-19,20287.59,1570,19515.18,1.06,False
+Personal Care,2025-05-26,18438.98,1462,19481.0,0.94,False
+Personal Care,2025-06-02,19922.38,1619,19491.03,1.02,False
+Personal Care,2025-06-09,18763.71,1465,19353.17,0.96,False
+Personal Care,2025-06-16,21004.65,1678,19532.43,1.09,False
+Personal Care,2025-06-23,18178.43,1368,19467.29,0.93,False
+Personal Care,2025-06-30,20000.93,1549,19486.93,1.03,False
+Personal Care,2025-07-07,17173.41,1378,19089.36,0.88,False
+Personal Care,2025-07-14,20974.54,1667,19081.83,1.1,False
+Personal Care,2025-07-21,20216.01,1507,19591.22,1.06,False
+Personal Care,2025-07-28,22193.21,1699,20139.29,1.13,False
+Personal Care,2025-08-04,18724.02,1481,20526.95,0.93,False
+Personal Care,2025-08-11,19107.45,1483,20060.17,0.93,False
+Personal Care,2025-08-18,20170.42,1472,20048.77,1.01,False
+Personal Care,2025-08-25,24253.06,1778,20563.74,1.21,False
+Personal Care,2025-09-01,20383.23,1623,20978.54,0.99,False
+Personal Care,2025-09-08,17791.55,1493,20649.57,0.85,False
+Personal Care,2025-09-15,20841.91,1572,20817.44,1.01,False
+Personal Care,2025-09-22,19478.54,1473,19623.81,0.94,False
+Personal Care,2025-09-29,21040.57,1559,19788.14,1.07,False
+Personal Care,2025-10-06,20713.9,1631,20518.73,1.05,False
+Personal Care,2025-10-13,21888.5,1704,20780.38,1.07,False
+Personal Care,2025-10-20,19661.89,1595,20826.22,0.95,False
+Personal Care,2025-10-27,24586.3,1943,21712.65,1.18,False
+Personal Care,2025-11-03,21923.08,1739,22014.94,1.01,False
+Personal Care,2025-11-10,21030.85,1664,21800.53,0.96,False
+Personal Care,2025-11-17,19670.33,1689,21802.64,0.9,False
+Personal Care,2025-11-24,24623.94,1941,21812.05,1.13,False
+Personal Care,2025-12-01,23500.32,1940,22206.36,1.08,False
+Personal Care,2025-12-08,22557.68,1763,22588.07,1.02,False
+Personal Care,2025-12-15,21036.47,1723,22929.6,0.93,False
+Personal Care,2025-12-22,21797.0,1706,22222.87,0.95,False
+Personal Care,2025-12-29,8213.03,668,18401.05,0.37,True
+Pet Supplies,2024-01-01,18062.2,897,18062.2,,False
+Pet Supplies,2024-01-08,16172.33,810,17117.27,0.9,False
+Pet Supplies,2024-01-15,17953.74,872,17396.09,1.05,False
+Pet Supplies,2024-01-22,17386.1,940,17393.59,1.0,False
+Pet Supplies,2024-01-29,17500.85,894,17253.25,1.01,False
+Pet Supplies,2024-02-05,17905.47,907,17686.54,1.04,False
+Pet Supplies,2024-02-12,18715.4,991,17876.96,1.06,False
+Pet Supplies,2024-02-19,16871.15,875,17748.22,0.94,False
+Pet Supplies,2024-02-26,17361.97,941,17713.5,0.98,False
+Pet Supplies,2024-03-04,20425.92,1038,18343.61,1.15,False
+Pet Supplies,2024-03-11,18343.73,921,18250.69,1.0,False
+Pet Supplies,2024-03-18,21453.1,1160,19396.18,1.18,False
+Pet Supplies,2024-03-25,19187.76,978,19852.63,0.99,False
+Pet Supplies,2024-04-01,20429.94,1096,19853.63,1.03,False
+Pet Supplies,2024-04-08,18818.54,981,19972.34,0.95,False
+Pet Supplies,2024-04-15,19502.08,991,19484.58,0.98,False
+Pet Supplies,2024-04-22,20794.25,1038,19886.2,1.07,False
+Pet Supplies,2024-04-29,19151.1,975,19566.49,0.96,False
+Pet Supplies,2024-05-06,18759.64,1071,19551.77,0.96,False
+Pet Supplies,2024-05-13,17550.76,925,19063.94,0.9,False
+Pet Supplies,2024-05-20,21590.76,970,19263.07,1.13,False
+Pet Supplies,2024-05-27,19128.5,1039,19257.41,0.99,False
+Pet Supplies,2024-06-03,21461.38,1062,19932.85,1.11,False
+Pet Supplies,2024-06-10,18384.97,1074,20141.4,0.92,False
+Pet Supplies,2024-06-17,22051.37,1137,20256.56,1.09,False
+Pet Supplies,2024-06-24,18540.94,914,20109.67,0.92,False
+Pet Supplies,2024-07-01,19650.86,1032,19657.04,0.98,False
+Pet Supplies,2024-07-08,22800.7,977,20760.97,1.16,False
+Pet Supplies,2024-07-15,18736.88,936,19932.35,0.9,False
+Pet Supplies,2024-07-22,21109.95,1075,20574.6,1.06,False
+Pet Supplies,2024-07-29,21332.36,989,20994.97,1.04,False
+Pet Supplies,2024-08-05,22469.96,1160,20912.29,1.07,False
+Pet Supplies,2024-08-12,21304.0,1089,21554.07,1.02,False
+Pet Supplies,2024-08-19,19831.35,1033,21234.42,0.92,False
+Pet Supplies,2024-08-26,20544.07,1071,21037.35,0.97,False
+Pet Supplies,2024-09-02,20235.47,1062,20478.72,0.96,False
+Pet Supplies,2024-09-09,19880.52,997,20122.85,0.97,False
+Pet Supplies,2024-09-16,17740.65,937,19600.18,0.88,False
+Pet Supplies,2024-09-23,18844.08,978,19175.18,0.96,False
+Pet Supplies,2024-09-30,23386.06,1093,19962.83,1.22,False
+Pet Supplies,2024-10-07,21150.4,1109,20280.3,1.06,False
+Pet Supplies,2024-10-14,21544.38,1021,21231.23,1.06,False
+Pet Supplies,2024-10-21,22368.74,1123,22112.4,1.05,False
+Pet Supplies,2024-10-28,21413.13,1222,21619.16,0.97,False
+Pet Supplies,2024-11-04,18270.92,1026,20899.29,0.85,False
+Pet Supplies,2024-11-11,21908.73,1125,20990.38,1.05,False
+Pet Supplies,2024-11-18,21254.13,1137,20711.73,1.01,False
+Pet Supplies,2024-11-25,24273.2,1198,21426.75,1.17,False
+Pet Supplies,2024-12-02,20145.1,1131,21895.29,0.94,False
+Pet Supplies,2024-12-09,18399.96,1080,21018.1,0.84,False
+Pet Supplies,2024-12-16,19435.44,1098,20563.43,0.92,False
+Pet Supplies,2024-12-23,21906.48,1098,19971.75,1.07,False
+Pet Supplies,2024-12-30,19746.04,1145,19871.98,0.99,False
+Pet Supplies,2025-01-06,17835.14,961,19730.78,0.9,False
+Pet Supplies,2025-01-13,19250.4,991,19684.52,0.98,False
+Pet Supplies,2025-01-20,22254.63,1039,19771.55,1.13,False
+Pet Supplies,2025-01-27,18520.13,895,19465.08,0.94,False
+Pet Supplies,2025-02-03,21990.94,1160,20504.03,1.13,False
+Pet Supplies,2025-02-10,18677.71,1026,20360.85,0.91,False
+Pet Supplies,2025-02-17,18100.51,1006,19322.32,0.89,False
+Pet Supplies,2025-02-24,18076.37,931,19211.38,0.94,False
+Pet Supplies,2025-03-03,19226.4,1062,18520.25,1.0,False
+Pet Supplies,2025-03-10,21567.66,1099,19242.74,1.16,False
+Pet Supplies,2025-03-17,22383.52,1118,20313.49,1.16,False
+Pet Supplies,2025-03-24,21835.22,1080,21253.2,1.07,False
+Pet Supplies,2025-03-31,21105.92,1021,21723.08,0.99,False
+Pet Supplies,2025-04-07,18707.47,1014,21008.03,0.86,False
+Pet Supplies,2025-04-14,21833.8,1105,20870.6,1.04,False
+Pet Supplies,2025-04-21,20765.07,1100,20603.07,0.99,False
+Pet Supplies,2025-04-28,20059.66,1093,20341.5,0.97,False
+Pet Supplies,2025-05-05,20552.79,1224,20802.83,1.01,False
+Pet Supplies,2025-05-12,21973.23,1184,20837.69,1.06,False
+Pet Supplies,2025-05-19,20225.91,1003,20702.9,0.97,False
+Pet Supplies,2025-05-26,20025.93,1065,20694.47,0.97,False
+Pet Supplies,2025-06-02,21474.65,1045,20924.93,1.04,False
+Pet Supplies,2025-06-09,19863.09,1025,20397.4,0.95,False
+Pet Supplies,2025-06-16,19925.44,1065,20322.28,0.98,False
+Pet Supplies,2025-06-23,18442.53,1012,19926.43,0.91,False
+Pet Supplies,2025-06-30,23409.59,1231,20410.16,1.17,False
+Pet Supplies,2025-07-07,21142.64,1047,20730.05,1.04,False
+Pet Supplies,2025-07-14,20130.1,1065,20781.21,0.97,False
+Pet Supplies,2025-07-21,21089.25,1090,21442.89,1.01,False
+Pet Supplies,2025-07-28,18318.23,1043,20170.06,0.85,False
+Pet Supplies,2025-08-04,19272.4,1029,19702.5,0.96,False
+Pet Supplies,2025-08-11,19631.72,1025,19577.9,1.0,False
+Pet Supplies,2025-08-18,21855.84,1128,19769.55,1.12,False
+Pet Supplies,2025-08-25,20034.5,946,20198.62,1.01,False
+Pet Supplies,2025-09-01,21933.03,1131,20863.77,1.09,False
+Pet Supplies,2025-09-08,22221.89,1057,21511.32,1.07,False
+Pet Supplies,2025-09-15,22370.5,1067,21639.98,1.04,False
+Pet Supplies,2025-09-22,19050.62,1000,21394.01,0.88,False
+Pet Supplies,2025-09-29,21699.19,1093,21335.55,1.01,False
+Pet Supplies,2025-10-06,23909.99,1212,21757.58,1.12,False
+Pet Supplies,2025-10-13,27588.95,1332,23062.19,1.27,False
+Pet Supplies,2025-10-20,23269.2,1057,24116.83,1.01,False
+Pet Supplies,2025-10-27,22367.3,1240,24283.86,0.93,False
+Pet Supplies,2025-11-03,21790.58,1156,23754.01,0.9,False
+Pet Supplies,2025-11-10,21421.03,1258,22212.03,0.9,False
+Pet Supplies,2025-11-17,21379.65,1043,21739.64,0.96,False
+Pet Supplies,2025-11-24,24800.9,1377,22348.04,1.14,False
+Pet Supplies,2025-12-01,27678.29,1441,23819.97,1.24,False
+Pet Supplies,2025-12-08,20869.03,1153,23681.97,0.88,False
+Pet Supplies,2025-12-15,22605.39,1116,23988.4,0.95,False
+Pet Supplies,2025-12-22,22927.57,1113,23520.07,0.96,False
+Pet Supplies,2025-12-29,8725.95,487,18781.98,0.37,True
+Stationery & Office,2024-01-01,11559.0,2010,11559.0,,False
+Stationery & Office,2024-01-08,10011.53,1639,10785.27,0.87,False
+Stationery & Office,2024-01-15,9682.95,1728,10417.83,0.9,False
+Stationery & Office,2024-01-22,10725.75,1826,10494.81,1.03,False
+Stationery & Office,2024-01-29,10688.32,1776,10277.14,1.02,False
+Stationery & Office,2024-02-05,11147.11,1761,10561.03,1.08,False
+Stationery & Office,2024-02-12,9879.33,1589,10610.13,0.94,False
+Stationery & Office,2024-02-19,9142.85,1427,10214.4,0.86,False
+Stationery & Office,2024-02-26,10240.91,1635,10102.55,1.0,False
+Stationery & Office,2024-03-04,10768.87,1641,10007.99,1.07,False
+Stationery & Office,2024-03-11,11675.5,1782,10457.03,1.17,False
+Stationery & Office,2024-03-18,12895.26,2097,11395.14,1.23,False
+Stationery & Office,2024-03-25,11473.44,1819,11703.27,1.01,False
+Stationery & Office,2024-04-01,12710.96,1969,12188.79,1.09,False
+Stationery & Office,2024-04-08,11086.59,1745,12041.56,0.91,False
+Stationery & Office,2024-04-15,10337.11,1844,11402.03,0.86,False
+Stationery & Office,2024-04-22,10610.61,1631,11186.32,0.93,False
+Stationery & Office,2024-04-29,12527.9,1794,11140.55,1.12,False
+Stationery & Office,2024-05-06,11697.13,2256,11293.19,1.05,False
+Stationery & Office,2024-05-13,11207.81,1805,11510.86,0.99,False
+Stationery & Office,2024-05-20,11956.72,1944,11847.39,1.04,False
+Stationery & Office,2024-05-27,11938.42,1800,11700.02,1.01,False
+Stationery & Office,2024-06-03,12344.51,1973,11861.87,1.06,False
+Stationery & Office,2024-06-10,11322.52,1733,11890.54,0.95,False
+Stationery & Office,2024-06-17,12128.16,1936,11933.4,1.02,False
+Stationery & Office,2024-06-24,11550.11,1838,11836.33,0.97,False
+Stationery & Office,2024-07-01,11517.64,1921,11629.61,0.97,False
+Stationery & Office,2024-07-08,10890.46,1782,11521.59,0.94,False
+Stationery & Office,2024-07-15,12179.8,1954,11534.5,1.06,False
+Stationery & Office,2024-07-22,12594.99,2135,11795.72,1.09,False
+Stationery & Office,2024-07-29,13371.57,1920,12259.21,1.13,False
+Stationery & Office,2024-08-05,11971.76,2019,12529.53,0.98,False
+Stationery & Office,2024-08-12,13096.76,2153,12758.77,1.05,False
+Stationery & Office,2024-08-19,12270.85,2068,12677.74,0.96,False
+Stationery & Office,2024-08-26,14270.92,2037,12902.57,1.13,False
+Stationery & Office,2024-09-02,10860.36,1747,12624.72,0.84,False
+Stationery & Office,2024-09-09,13903.74,1884,12826.47,1.1,False
+Stationery & Office,2024-09-16,12058.03,1855,12773.26,0.94,False
+Stationery & Office,2024-09-23,11269.14,1779,12022.82,0.88,False
+Stationery & Office,2024-09-30,11886.63,2140,12279.39,0.99,False
+Stationery & Office,2024-10-07,13185.84,2139,12099.91,1.07,False
+Stationery & Office,2024-10-14,12805.08,1950,12286.67,1.06,False
+Stationery & Office,2024-10-21,12926.28,2007,12700.96,1.05,False
+Stationery & Office,2024-10-28,11245.19,1865,12540.6,0.89,False
+Stationery & Office,2024-11-04,13577.82,2031,12638.59,1.08,False
+Stationery & Office,2024-11-11,12236.62,2188,12496.48,0.97,False
+Stationery & Office,2024-11-18,13060.93,2136,12530.14,1.05,False
+Stationery & Office,2024-11-25,13452.97,2179,13082.09,1.07,False
+Stationery & Office,2024-12-02,12962.34,2268,12928.22,0.99,False
+Stationery & Office,2024-12-09,12643.33,1879,13029.89,0.98,False
+Stationery & Office,2024-12-16,11615.13,1851,12668.44,0.89,False
+Stationery & Office,2024-12-23,12991.52,2020,12553.08,1.03,False
+Stationery & Office,2024-12-30,12726.18,1947,12494.04,1.01,False
+Stationery & Office,2025-01-06,11275.35,1845,12152.05,0.9,False
+Stationery & Office,2025-01-13,10050.95,1633,11761.0,0.83,False
+Stationery & Office,2025-01-20,12317.29,2027,11592.44,1.05,False
+Stationery & Office,2025-01-27,11055.34,1707,11174.73,0.95,False
+Stationery & Office,2025-02-03,11955.98,1841,11344.89,1.07,False
+Stationery & Office,2025-02-10,11029.06,1657,11589.42,0.97,False
+Stationery & Office,2025-02-17,12219.11,2063,11564.87,1.05,False
+Stationery & Office,2025-02-24,11791.26,1777,11748.85,1.02,False
+Stationery & Office,2025-03-03,11556.96,1760,11649.1,0.98,False
+Stationery & Office,2025-03-10,11456.73,1908,11756.02,0.98,False
+Stationery & Office,2025-03-17,12422.73,2000,11806.92,1.06,False
+Stationery & Office,2025-03-24,12653.81,2143,12022.56,1.07,False
+Stationery & Office,2025-03-31,12029.31,1903,12140.64,1.0,False
+Stationery & Office,2025-04-07,13808.57,2425,12728.61,1.14,False
+Stationery & Office,2025-04-14,11943.03,1936,12608.68,0.94,False
+Stationery & Office,2025-04-21,11167.55,1710,12237.11,0.89,False
+Stationery & Office,2025-04-28,11626.55,1917,12136.43,0.95,False
+Stationery & Office,2025-05-05,13118.04,2022,11963.79,1.08,False
+Stationery & Office,2025-05-12,12412.32,1897,12081.12,1.04,False
+Stationery & Office,2025-05-19,11876.35,1815,12258.32,0.98,False
+Stationery & Office,2025-05-26,13863.91,2209,12817.65,1.13,False
+Stationery & Office,2025-06-02,13380.46,1931,12883.26,1.04,False
+Stationery & Office,2025-06-09,11152.11,1784,12568.21,0.87,False
+Stationery & Office,2025-06-16,12082.5,2048,12619.74,0.96,False
+Stationery & Office,2025-06-23,12016.57,1873,12157.91,0.95,False
+Stationery & Office,2025-06-30,13142.11,2087,12098.32,1.08,False
+Stationery & Office,2025-07-07,12017.88,2142,12314.77,0.99,False
+Stationery & Office,2025-07-14,12597.62,1975,12443.55,1.02,False
+Stationery & Office,2025-07-21,11515.63,1887,12318.31,0.93,False
+Stationery & Office,2025-07-28,13543.07,2059,12418.55,1.1,False
+Stationery & Office,2025-08-04,12438.67,1930,12523.75,1.0,False
+Stationery & Office,2025-08-11,11720.76,1982,12304.53,0.94,False
+Stationery & Office,2025-08-18,10557.38,1818,12064.97,0.86,False
+Stationery & Office,2025-08-25,14067.86,2162,12196.17,1.17,False
+Stationery & Office,2025-09-01,11864.43,1826,12052.61,0.97,False
+Stationery & Office,2025-09-08,12215.45,2011,12176.28,1.01,False
+Stationery & Office,2025-09-15,12363.72,2098,12627.87,1.02,False
+Stationery & Office,2025-09-22,12781.06,1951,12306.16,1.01,False
+Stationery & Office,2025-09-29,12345.65,1986,12426.47,1.0,False
+Stationery & Office,2025-10-06,16538.14,2397,13507.14,1.33,False
+Stationery & Office,2025-10-13,12424.99,1946,13522.46,0.92,False
+Stationery & Office,2025-10-20,14176.71,2086,13871.37,1.05,False
+Stationery & Office,2025-10-27,13780.54,2054,14230.1,0.99,False
+Stationery & Office,2025-11-03,15034.92,2570,13854.29,1.06,False
+Stationery & Office,2025-11-10,12739.24,1991,13932.85,0.92,False
+Stationery & Office,2025-11-17,13844.96,2349,13849.91,0.99,False
+Stationery & Office,2025-11-24,14481.31,2556,14025.11,1.05,False
+Stationery & Office,2025-12-01,15248.11,2471,14078.4,1.09,False
+Stationery & Office,2025-12-08,13076.1,2227,14162.62,0.93,False
+Stationery & Office,2025-12-15,14385.24,2250,14297.69,1.02,False
+Stationery & Office,2025-12-22,14376.4,2368,14271.46,1.01,False
+Stationery & Office,2025-12-29,6158.44,905,11999.05,0.43,True
+Toys & Games,2024-01-01,14180.08,829,14180.08,,False
+Toys & Games,2024-01-08,13368.46,806,13774.27,0.94,False
+Toys & Games,2024-01-15,13390.59,815,13646.38,0.97,False
+Toys & Games,2024-01-22,12407.9,741,13336.76,0.91,False
+Toys & Games,2024-01-29,16011.71,939,13794.66,1.2,False
+Toys & Games,2024-02-05,16607.53,1035,14604.43,1.2,False
+Toys & Games,2024-02-12,17158.16,1036,15546.33,1.17,False
+Toys & Games,2024-02-19,16292.29,979,16517.42,1.05,False
+Toys & Games,2024-02-26,17314.51,1077,16843.12,1.05,False
+Toys & Games,2024-03-04,19602.95,1178,17591.98,1.16,False
+Toys & Games,2024-03-11,18436.38,1102,17911.53,1.05,False
+Toys & Games,2024-03-18,21442.57,1256,19199.1,1.2,False
+Toys & Games,2024-03-25,18859.9,1149,19585.45,0.98,False
+Toys & Games,2024-04-01,18670.3,1129,19352.29,0.95,False
+Toys & Games,2024-04-08,18810.4,1164,19445.79,0.97,False
+Toys & Games,2024-04-15,18253.13,1107,18648.43,0.94,False
+Toys & Games,2024-04-22,19977.74,1173,18927.89,1.07,False
+Toys & Games,2024-04-29,18854.48,1078,18973.94,1.0,False
+Toys & Games,2024-05-06,22149.11,1472,19808.62,1.17,False
+Toys & Games,2024-05-13,19687.12,1187,20167.11,0.99,False
+Toys & Games,2024-05-20,23050.41,1396,20935.28,1.14,False
+Toys & Games,2024-05-27,23531.26,1313,22104.48,1.12,False
+Toys & Games,2024-06-03,20662.5,1237,21732.82,0.93,False
+Toys & Games,2024-06-10,16668.2,1093,20978.09,0.77,False
+Toys & Games,2024-06-17,18704.46,1171,19891.6,0.89,False
+Toys & Games,2024-06-24,17300.17,1074,18333.83,0.87,False
+Toys & Games,2024-07-01,22015.55,1236,18672.1,1.2,False
+Toys & Games,2024-07-08,20247.4,1159,19566.89,1.08,False
+Toys & Games,2024-07-15,19491.58,1207,19763.68,1.0,False
+Toys & Games,2024-07-22,21467.21,1287,20805.43,1.09,False
+Toys & Games,2024-07-29,20889.11,1200,20523.83,1.0,False
+Toys & Games,2024-08-05,19473.71,1242,20330.4,0.95,False
+Toys & Games,2024-08-12,19004.6,1190,20208.66,0.93,False
+Toys & Games,2024-08-19,20675.35,1337,20010.69,1.02,False
+Toys & Games,2024-08-26,22370.71,1364,20381.09,1.12,False
+Toys & Games,2024-09-02,21179.8,1253,20807.61,1.04,False
+Toys & Games,2024-09-09,20408.73,1223,21158.65,0.98,False
+Toys & Games,2024-09-16,20696.91,1182,21164.04,0.98,False
+Toys & Games,2024-09-23,18555.27,1137,20210.18,0.88,False
+Toys & Games,2024-09-30,22728.83,1313,20597.44,1.12,False
+Toys & Games,2024-10-07,20526.86,1222,20626.97,1.0,False
+Toys & Games,2024-10-14,22587.58,1372,21099.64,1.1,False
+Toys & Games,2024-10-21,21340.34,1252,21795.9,1.01,False
+Toys & Games,2024-10-28,29918.41,1831,23593.3,1.37,False
+Toys & Games,2024-11-04,36448.25,2373,27573.65,1.54,False
+Toys & Games,2024-11-11,36257.05,2337,30991.01,1.31,False
+Toys & Games,2024-11-18,37048.56,2369,34918.07,1.2,False
+Toys & Games,2024-11-25,44542.29,2788,38574.04,1.28,False
+Toys & Games,2024-12-02,50118.75,3309,41991.66,1.3,False
+Toys & Games,2024-12-09,53606.85,3147,46329.11,1.28,False
+Toys & Games,2024-12-16,44206.14,2780,48118.51,0.95,False
+Toys & Games,2024-12-23,48351.28,3104,49070.76,1.0,False
+Toys & Games,2024-12-30,21843.38,1430,42001.91,0.45,False
+Toys & Games,2025-01-06,17312.75,950,32928.39,0.41,False
+Toys & Games,2025-01-13,13550.4,841,25264.45,0.41,False
+Toys & Games,2025-01-20,15325.5,905,17008.01,0.61,False
+Toys & Games,2025-01-27,14624.02,873,15203.17,0.86,False
+Toys & Games,2025-02-03,20492.89,1227,15998.2,1.35,False
+Toys & Games,2025-02-10,15310.6,979,16438.25,0.96,False
+Toys & Games,2025-02-17,19644.25,1238,17517.94,1.2,False
+Toys & Games,2025-02-24,17944.17,1067,18347.98,1.02,False
+Toys & Games,2025-03-03,19054.34,1151,17988.34,1.04,False
+Toys & Games,2025-03-10,19380.2,1219,19005.74,1.08,False
+Toys & Games,2025-03-17,20336.14,1285,19178.71,1.07,False
+Toys & Games,2025-03-24,22302.67,1368,20268.34,1.16,False
+Toys & Games,2025-03-31,20685.75,1213,20676.19,1.02,False
+Toys & Games,2025-04-07,18293.95,1135,20404.63,0.88,False
+Toys & Games,2025-04-14,19512.89,1212,20198.82,0.96,False
+Toys & Games,2025-04-21,18293.81,1126,19196.6,0.91,False
+Toys & Games,2025-04-28,21316.05,1308,19354.18,1.11,False
+Toys & Games,2025-05-05,18267.18,1111,19347.48,0.94,False
+Toys & Games,2025-05-12,24417.86,1378,20573.73,1.26,False
+Toys & Games,2025-05-19,22347.11,1324,21587.05,1.09,False
+Toys & Games,2025-05-26,20183.87,1235,21304.01,0.93,False
+Toys & Games,2025-06-02,22520.03,1356,22367.22,1.06,False
+Toys & Games,2025-06-09,20968.75,1243,21504.94,0.94,False
+Toys & Games,2025-06-16,21939.91,1520,21403.14,1.02,False
+Toys & Games,2025-06-23,19242.51,1186,21167.8,0.9,False
+Toys & Games,2025-06-30,20605.33,1244,20689.13,0.97,False
+Toys & Games,2025-07-07,20160.07,1251,20486.96,0.97,False
+Toys & Games,2025-07-14,19072.85,1225,19770.19,0.93,False
+Toys & Games,2025-07-21,19215.98,1227,19763.56,0.97,False
+Toys & Games,2025-07-28,20025.66,1193,19618.64,1.01,False
+Toys & Games,2025-08-04,17063.86,1034,18844.59,0.87,False
+Toys & Games,2025-08-11,18806.86,1175,18778.09,1.0,False
+Toys & Games,2025-08-18,17452.6,1201,18337.25,0.93,False
+Toys & Games,2025-08-25,20813.69,1208,18534.25,1.14,False
+Toys & Games,2025-09-01,18911.51,1163,18996.16,1.02,False
+Toys & Games,2025-09-08,21529.53,1256,19676.83,1.13,False
+Toys & Games,2025-09-15,21742.28,1288,20749.25,1.1,False
+Toys & Games,2025-09-22,20179.62,1202,20590.73,0.97,False
+Toys & Games,2025-09-29,21948.08,1309,21349.88,1.07,False
+Toys & Games,2025-10-06,21465.21,1383,21333.8,1.01,False
+Toys & Games,2025-10-13,22824.07,1323,21604.25,1.07,False
+Toys & Games,2025-10-20,20468.09,1294,21676.36,0.95,False
+Toys & Games,2025-10-27,31845.15,1970,24150.63,1.47,False
+Toys & Games,2025-11-03,43050.26,2688,29546.89,1.78,False
+Toys & Games,2025-11-10,39341.61,2451,33676.28,1.33,False
+Toys & Games,2025-11-17,35941.07,2363,37544.52,1.07,False
+Toys & Games,2025-11-24,49116.03,3077,41862.24,1.31,False
+Toys & Games,2025-12-01,59764.88,3610,46040.9,1.43,False
+Toys & Games,2025-12-08,48965.94,3189,48446.98,1.06,False
+Toys & Games,2025-12-15,48371.96,3054,51554.7,1.0,False
+Toys & Games,2025-12-22,54666.63,3390,52942.35,1.06,False
+Toys & Games,2025-12-29,19815.24,1253,42954.94,0.37,True

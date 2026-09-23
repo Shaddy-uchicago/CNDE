@@ -1,0 +1,43 @@
+invoice_year,Channel,day_type,invoice_dayofweek,days,revenue
+2024,Mobile App,Weekday,2,53,193173.93
+2025,In-Store,Weekday,4,52,1051135.46
+2024,Mobile App,Weekend,6,52,303248.92
+2024,Mobile App,Weekday,3,52,198899.39
+2025,Online,Weekday,3,53,672240.58
+2025,In-Store,Weekday,1,52,989595.91
+2024,In-Store,Weekday,5,52,1301195.24
+2025,Mobile App,Weekday,2,52,285400.92
+2024,Mobile App,Weekday,1,53,213957.86
+2024,Online,Weekend,6,52,881378.96
+2025,Mobile App,Weekday,1,52,270095.4
+2025,Online,Weekday,1,52,698453.89
+2025,Online,Weekday,2,52,665653.0
+2024,Mobile App,Weekend,7,52,263542.36
+2024,Mobile App,Weekday,4,52,214011.45
+2025,Mobile App,Weekend,7,52,365269.61
+2025,Mobile App,Weekday,5,52,339775.93
+2025,In-Store,Weekday,2,52,993562.73
+2024,Online,Weekday,1,53,641661.14
+2024,In-Store,Weekday,3,52,1070184.29
+2024,In-Store,Weekend,7,52,1359394.97
+2024,In-Store,Weekday,1,53,1105742.3
+2025,In-Store,Weekday,3,53,1041869.83
+2025,Online,Weekend,7,52,890761.8
+2025,In-Store,Weekday,5,52,1242153.83
+2025,Online,Weekday,4,52,706260.47
+2024,Online,Weekday,5,52,776938.23
+2025,Mobile App,Weekday,4,52,293215.38
+2024,Online,Weekday,4,52,669144.28
+2024,In-Store,Weekday,2,53,1060150.44
+2024,Online,Weekend,7,52,845777.2
+2025,Mobile App,Weekend,6,52,402831.29
+2024,In-Store,Weekend,6,52,1500264.25
+2024,Online,Weekday,2,53,619966.0
+2024,Mobile App,Weekday,5,52,258028.3
+2024,In-Store,Weekday,4,52,1149262.41
+2025,Mobile App,Weekday,3,53,279782.95
+2025,Online,Weekday,5,52,826967.47
+2025,In-Store,Weekend,6,52,1455798.8
+2025,In-Store,Weekend,7,52,1336217.55
+2025,Online,Weekend,6,52,1004937.16
+2024,Online,Weekday,3,52,631114.93
